@@ -1,0 +1,28 @@
+---
+title: "Annual Conference Edition"
+format:
+  pdf:
+    documentclass: scrartcl
+    classoption:
+      - numbers=noendperiod
+      - DIV=15
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+    header-includes:
+      - \usepackage{pdfpages}
+---
+
+\pagenumbering{roman}
+{{< include annual-conference-preface.qmd >}}
+
+\newpage
+\tableofcontents
+
+\newpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+{{< include chronicles/_content.qmd >}}

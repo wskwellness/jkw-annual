@@ -1,0 +1,27 @@
+---
+title: "WSKW Chronicles"
+subtitle: "2022 WSKW Conference Abstracts"
+date: "2022-01-01"
+author: "Journal of Kinesiology and Wellness, Volume 11, Number 1, 2022"
+format:
+  pdf:
+    documentclass: article
+    fontsize: 11pt
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+    header-includes:
+      - \usepackage{titling}
+      - \pretitle{\begin{center}\LARGE\bfseries}
+      - \posttitle{\end{center}}
+      - \preauthor{\begin{center}\large}
+      - \postauthor{\end{center}}
+      - \predate{\begin{center}\large}
+      - \postdate{\end{center}}
+      - \postdate{\end{center}}
+---
+
+\setcounter{page}{1}
+{{< include _content.qmd >}}
