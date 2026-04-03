@@ -12,7 +12,9 @@
 
 # Only track PDFs that start with an underscore.
 !**/_*.pdf
-
+# Track info and config data files per volume (non-archive state).
+!**/info.md
+!**/volume_config.yaml
 # Allow a minimal GitHub Pages site under docs/.
 !docs/
 !docs/**/
