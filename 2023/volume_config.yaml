@@ -58,7 +58,5 @@ articles:
 # This is the combined conference PDF (program info + abstracts).
 # Path is relative to the year folder.
 chronicles:
-  file: sources/conference/2023-WSKW-Conference-Program-100423.pdf
+  qmd: sources/conference/2023_WSKW_Chronicles.qmd
   title: "WSKW Chronicles: 2023 WSKW Annual Conference"
-  start_page: 13
-  end_page: 24

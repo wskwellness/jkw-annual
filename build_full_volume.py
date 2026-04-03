@@ -24,6 +24,7 @@ import sys
 import os
 import io
 import re
+import subprocess
 import tempfile
 from pathlib import Path
 
@@ -101,6 +102,22 @@ def pdf_page_count(path: str) -> int:
     """Return the number of pages in a PDF file."""
     reader = PdfReader(path)
     return len(reader.pages)
+
+
+def render_qmd_to_pdf(qmd_path: Path) -> Path:
+    """Render a QMD file to PDF and return the generated PDF path."""
+    if not qmd_path.exists():
+        raise FileNotFoundError(f"Chronicles QMD not found: {qmd_path}")
+
+    out_pdf = qmd_path.with_suffix(".pdf")
+    cmd = ["quarto", "render", str(qmd_path), "--to", "pdf"]
+    proc = subprocess.run(cmd, capture_output=True, text=True)
+    if proc.returncode != 0:
+        msg = (proc.stderr or proc.stdout or "").strip()
+        raise RuntimeError(f"Failed rendering chronicles QMD: {qmd_path}\n{msg}")
+    if not out_pdf.exists():
+        raise RuntimeError(f"Quarto render did not create expected PDF: {out_pdf}")
+    return out_pdf
 
 
 def png_to_pdf_bytes(image_path: str) -> bytes:
@@ -537,15 +554,31 @@ def main(config_path: str):
         if not p.exists():
             errors.append(f"  Article {i+1} not found: {art['file']}")
 
-    chron_path = base / chronicles.get("file", "") if chronicles.get("file") else None
-    if not chron_path or not chron_path.exists():
-        errors.append(f"  Chronicles not found: {chronicles.get('file', '(not set)')}")
+    chron_qmd = chronicles.get("qmd")
+    chron_file = chronicles.get("file")
+    chron_path = base / chron_file if chron_file else None
+    chron_qmd_path = base / chron_qmd if chron_qmd else None
+
+    if chron_qmd_path:
+        if not chron_qmd_path.exists():
+            errors.append(f"  Chronicles QMD not found: {chron_qmd}")
+    else:
+        if not chron_path or not chron_path.exists():
+            errors.append(f"  Chronicles not found: {chronicles.get('file', '(not set)')}")
 
     chron_reader = None
     chron_total_pages = 0
     chron_start = 1
     chron_end = 0
-    if chron_path and chron_path.exists():
+    chron_source_label = chron_qmd if chron_qmd else chron_file
+    if chron_qmd_path and chron_qmd_path.exists():
+        # Render curated conference content from QMD for consistency.
+        chron_pdf_path = render_qmd_to_pdf(chron_qmd_path)
+        chron_reader = PdfReader(str(chron_pdf_path))
+        chron_total_pages = len(chron_reader.pages)
+        chron_start = 1
+        chron_end = chron_total_pages
+    elif chron_path and chron_path.exists():
         chron_reader = PdfReader(str(chron_path))
         chron_total_pages = len(chron_reader.pages)
         chron_start = int(chronicles.get("start_page", 1))
@@ -629,7 +662,7 @@ def main(config_path: str):
 
     chron_entry = next(e for e in page_map if e["type"] == "chronicles")
     chron_pages = chron_end - chron_start + 1
-    print(f"      p{chron_entry['page']}\u2013{chron_entry['page'] + chron_pages - 1}  ({chron_pages} pp)  {chronicles['file']}")
+    print(f"      p{chron_entry['page']}\u2013{chron_entry['page'] + chron_pages - 1}  ({chron_pages} pp)  {chron_source_label}")
 
     # ── Step 4: Build TOC (final, with correct page numbers) ──────────────────
     print("\n[4/5] Generating Table of Contents...")

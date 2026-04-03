@@ -86,6 +86,7 @@ Edit `volume_config.yaml` and fill in:
 | `output_file` | desired output filename (e.g., `JKW_2025_Full_Volume.pdf`) |
 | `articles` | list of articles in order — file path and exact title |
 | `chronicles.file` | path to the Chronicles PDF |
+| `chronicles.qmd` | *(preferred, 2022-style)* curated Chronicles QMD generated from selected pages |
 | `chronicles.title` | TOC label for the Chronicles section |
 | `chronicles.start_page` | *(optional)* first Chronicles page to include (1-based) |
 | `chronicles.end_page` | *(optional)* last Chronicles page to include (1-based, inclusive) |
@@ -111,6 +112,36 @@ The script will:
 4. Merge everything into one PDF: **Cover → TOC → Articles → WSKW Chronicles**
 
 Output is saved to `YYYY/JKW_YYYY_Full_Volume.pdf`.
+
+### Step 5 — Chronicles Extraction (2022-Consistent Workflow)
+
+For better consistency and scaling, generate a curated Chronicles QMD from
+selected conference-program pages (same pattern used in 2022):
+
+```bash
+python3 scripts/build/extract-chronicles-qmd.py \
+  --input YYYY/sources/conference/YYYY-WSKW-Conference-Program.pdf \
+  --output YYYY/sources/conference/YYYY_WSKW_Chronicles.qmd \
+  --year YYYY \
+  --volume VV \
+  --issue 1 \
+  --start-page SS \
+  --end-page EE \
+  --set-page PP
+```
+
+Then set in `YYYY/volume_config.yaml`:
+
+```yaml
+chronicles:
+  qmd: sources/conference/YYYY_WSKW_Chronicles.qmd
+  title: "WSKW Chronicles: YYYY WSKW Annual Conference"
+```
+
+Notes:
+- Use 2022 as the formatting reference for headings, spacing, and section structure.
+- `--set-page` controls the LaTeX page counter at the start of the Chronicles section.
+- If needed, you can still use a raw conference PDF with `chronicles.file` plus `start_page/end_page`.
 
 ---
 
