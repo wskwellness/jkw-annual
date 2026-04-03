@@ -1,0 +1,15 @@
+---
+title: "2022 Article Edition"
+format:
+  html:
+    toc: false
+    css: ../styles.css
+    embed-resources: true
+page-layout: full
+---
+
+[Back to viewer index](../index.html){.back-link}
+
+<div class="pdf-frame-shell">
+  <iframe src="_2022_article-edition.pdf" title="2022 Article Edition PDF" class="pdf-frame"></iframe>
+</div>

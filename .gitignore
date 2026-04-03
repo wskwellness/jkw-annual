@@ -3,6 +3,7 @@
 
 # Keep repo ignore rules tracked.
 !.gitignore
+!.claude/skills/jkw-full-volume/SKILL.md
 
 # Allow directory traversal so specific files below can be unignored.
 !*/
@@ -10,5 +11,17 @@
 # Only track PDFs that start with an underscore.
 !**/_*.pdf
 
+# Allow a minimal GitHub Pages site under docs/.
+!docs/
+!docs/**/
+!docs/.nojekyll
+!docs/**/*.qmd
+!docs/**/*.css
+!docs/index.html
+!docs/**/*.html
+!docs/**/*.pdf
+docs/**/*_files/
+
 # Rename any PDF you want to publish with a leading underscore.
 # Example: 2026/_full_issue.pdf
+
