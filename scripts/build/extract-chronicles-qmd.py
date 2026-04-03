@@ -58,8 +58,8 @@ def build_qmd(
     page_counter_line = f"\\setcounter{{page}}{{{set_page}}}" if set_page else ""
 
     body_blocks = []
-    for i, block in enumerate(extracted_blocks, start=start_page):
-        body_blocks.append(f"## Conference Program Extract — Source Page {i}\n\n{block}")
+    for block in extracted_blocks:
+        body_blocks.append(block)
 
     body = "\n\n---\n\n".join(body_blocks)
 
