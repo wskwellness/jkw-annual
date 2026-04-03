@@ -13,11 +13,5 @@ and the WSKW Chronicles conference abstracts — output as a single PDF.
 | 2026 | Vol 15, No 1 | *(pending)* |
 | 2025 | Vol 14, No 1 | *(pending)* |
 | 2024 | Vol 13, No 1 | *(pending)* |
-| 2023 | Vol 12, No 1 | *(pending)* |
+| 2023 | Vol 12, No 1 | [Full Volume PDF](https://wskwellness.github.io/jkw-annual/2023/_2023_full-volume.pdf) |
 | 2022 | Vol 11, No 1 | [Full Volume PDF](https://wskwellness.github.io/jkw-annual/2022/_2022_full-volume.pdf) |
-
----
-
-## Build Instructions
-
-See [user-instructions.md](user-instructions.md) for the full workflow.
