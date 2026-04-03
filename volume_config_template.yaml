@@ -36,14 +36,14 @@ articles:
   # Add more entries as needed…
 
 # ── WSKW Chronicles ──────────────────────────────────────────
-# Preferred (2022-consistent): provide a curated chronicles QMD generated
-# from selected conference pages, then let build_full_volume.py render it.
+# Preferred for fidelity: use the raw conference PDF with selected page range.
+# This preserves original line breaks and layout from the source document.
 # Path is relative to the year folder.
 chronicles:
-  qmd: sources/conference/2025_WSKW_Chronicles.qmd
+  file: sources/conference/2025-WSKW-Conference-Program.pdf
   title: "WSKW Chronicles: 2025 WSKW Annual Conference"
+  start_page: 13    # 1-based inclusive
+  end_page: 24      # 1-based inclusive
 
-  # Optional fallback when using a raw conference PDF directly:
-  # file: sources/conference/2025-WSKW-Conference-Program.pdf
-  # start_page: 13    # 1-based inclusive
-  # end_page: 24      # 1-based inclusive
+  # Optional advanced workflow (manual curation/editing):
+  # qmd: sources/conference/2025_WSKW_Chronicles.qmd

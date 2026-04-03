@@ -86,10 +86,10 @@ Edit `volume_config.yaml` and fill in:
 | `output_file` | desired output filename (e.g., `JKW_2025_Full_Volume.pdf`) |
 | `articles` | list of articles in order — file path and exact title |
 | `chronicles.file` | path to the Chronicles PDF |
-| `chronicles.qmd` | *(preferred, 2022-style)* curated Chronicles QMD generated from selected pages |
 | `chronicles.title` | TOC label for the Chronicles section |
 | `chronicles.start_page` | *(optional)* first Chronicles page to include (1-based) |
 | `chronicles.end_page` | *(optional)* last Chronicles page to include (1-based, inclusive) |
+| `chronicles.qmd` | *(optional advanced)* curated Chronicles QMD for manual editing |
 
 Articles appear in the PDF in the order they are listed here. Prefix your PDF
 filenames with numbers (`01_`, `02_`, …) so the order is visible in the folder,
@@ -113,10 +113,21 @@ The script will:
 
 Output is saved to `YYYY/JKW_YYYY_Full_Volume.pdf`.
 
-### Step 5 — Chronicles Extraction (2022-Consistent Workflow)
+### Step 5 — Chronicles Selection (Recommended)
 
-For better consistency and scaling, generate a curated Chronicles QMD from
-selected conference-program pages (same pattern used in 2022):
+Use direct conference PDF page selection for best fidelity (preserves source line breaks and layout):
+
+```yaml
+chronicles:
+  file: sources/conference/YYYY-WSKW-Conference-Program.pdf
+  title: "WSKW Chronicles: YYYY WSKW Annual Conference"
+  start_page: SS
+  end_page: EE
+```
+
+### Step 6 — Chronicles Extraction to QMD (Optional Advanced)
+
+If you need manual editing, generate a curated Chronicles QMD from selected conference pages:
 
 ```bash
 python3 scripts/build/extract-chronicles-qmd.py \
@@ -141,7 +152,7 @@ chronicles:
 Notes:
 - Use 2022 as the formatting reference for headings, spacing, and section structure.
 - `--set-page` controls the LaTeX page counter at the start of the Chronicles section.
-- If needed, you can still use a raw conference PDF with `chronicles.file` plus `start_page/end_page`.
+- For production quality, prefer `chronicles.file` + `start_page/end_page` whenever possible.
 
 ---
 
