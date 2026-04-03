@@ -228,13 +228,13 @@ Use these as separate snippets for easier copy and paste.
 ### 2022 Article Edition
 
 ```html
-<a href="https://wskwellness.github.io/jkw-annual/2022/_2022_article-edition.pdf" target="_blank" rel="noopener noreferrer"><strong>[PDF]</strong> Article Edition</a>
+<a href="https://wskwellness.github.io/jkw-annual/2022/_2022_article-edition.pdf" target="_blank" rel="noopener noreferrer"><strong>[PDF]</strong> Original Research</a>
 ```
 
 ### 2022 Student Edition
 
 ```html
-<a href="https://wskwellness.github.io/jkw-annual/2022/_2022_student-edition.pdf" target="_blank" rel="noopener noreferrer"><strong>[PDF]</strong> Article (Student Scholarship)</a>
+<a href="https://wskwellness.github.io/jkw-annual/2022/_2022_student-edition.pdf" target="_blank" rel="noopener noreferrer"><strong>[PDF]</strong> Student-Led Original Research</a>
 ```
 
 ### 2023 Annual Conference
@@ -246,11 +246,11 @@ Use these as separate snippets for easier copy and paste.
 ### 2023 Article Edition
 
 ```html
-<a href="https://wskwellness.github.io/jkw-annual/2023/_2023_article-edition.pdf" target="_blank" rel="noopener noreferrer"><strong>[PDF]</strong> Article Edition</a>
+<a href="https://wskwellness.github.io/jkw-annual/2023/_2023_article-edition.pdf" target="_blank" rel="noopener noreferrer"><strong>[PDF]</strong> Original Research</a>
 ```
 
 ### 2023 Student Edition
 
 ```html
-<a href="https://wskwellness.github.io/jkw-annual/2023/_2023_student-edition.pdf" target="_blank" rel="noopener noreferrer"><strong>[PDF]</strong> Article (Student Scholarship)</a>
+<a href="https://wskwellness.github.io/jkw-annual/2023/_2023_student-edition.pdf" target="_blank" rel="noopener noreferrer"><strong>[PDF]</strong> Student-Led Original Research</a>
 ```
