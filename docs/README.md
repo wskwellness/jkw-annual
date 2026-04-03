@@ -7,6 +7,9 @@ This folder contains the final underscore-prefixed published PDFs that are serve
 - https://wskwellness.github.io/jkw-annual/2022/_2022_annual-conference.pdf
 - https://wskwellness.github.io/jkw-annual/2022/_2022_article-edition.pdf
 - https://wskwellness.github.io/jkw-annual/2022/_2022_student-edition.pdf
+- https://wskwellness.github.io/jkw-annual/2022/_2022_annual-conference-2023.pdf
+- https://wskwellness.github.io/jkw-annual/2022/_2022_article-edition-2023.pdf
+- https://wskwellness.github.io/jkw-annual/2022/_2022_student-edition-2023.pdf
 
 ## Notes
 
