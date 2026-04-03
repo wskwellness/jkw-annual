@@ -1,6 +1,14 @@
-.DS_Store
-*.log
-*.aux
-*.out
-.quarto/
-*.docx
+# Whitelist mode: ignore everything by default.
+*
+
+# Keep repo ignore rules tracked.
+!.gitignore
+
+# Allow directory traversal so specific files below can be unignored.
+!*/
+
+# Only track PDFs that start with an underscore.
+!**/_*.pdf
+
+# Rename any PDF you want to publish with a leading underscore.
+# Example: 2026/_full_issue.pdf

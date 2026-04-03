@@ -1,5 +1,5 @@
 ---
-title: "Student Edition"
+title: ""
 format:
   pdf:
     documentclass: scrartcl
@@ -12,6 +12,8 @@ format:
       - \usepackage{pdfpages}
 ---
 
+\pagenumbering{gobble}
+\includepdf[pages=1,width=\paperwidth,height=\paperheight]{new-cover-2022.pdf}
 \pagenumbering{roman}
 \includepdf[pages=-]{annual-ed/preface.pdf}
 
