@@ -4,12 +4,15 @@ This folder contains the final underscore-prefixed published PDFs that are serve
 
 ## Published PDF URLs
 
-- https://wskwellness.github.io/jkw-annual/2022/_2022_annual-conference.pdf
-- https://wskwellness.github.io/jkw-annual/2022/_2022_article-edition.pdf
-- https://wskwellness.github.io/jkw-annual/2022/_2022_student-edition.pdf
-- https://wskwellness.github.io/jkw-annual/2022/_2022_annual-conference-2023.pdf
-- https://wskwellness.github.io/jkw-annual/2022/_2022_article-edition-2023.pdf
-- https://wskwellness.github.io/jkw-annual/2022/_2022_student-edition-2023.pdf
+### 2022
+- 📄 [2022 Annual Conference](https://wskwellness.github.io/jkw-annual/2022/_2022_annual-conference.pdf)
+- 📄 [2022 Article Edition](https://wskwellness.github.io/jkw-annual/2022/_2022_article-edition.pdf)
+- 📄 [2022 Student Edition](https://wskwellness.github.io/jkw-annual/2022/_2022_student-edition.pdf)
+
+### 2023
+- 📄 [2023 Annual Conference](https://wskwellness.github.io/jkw-annual/2022/_2023_annual-conference.pdf)
+- 📄 [2023 Article Edition](https://wskwellness.github.io/jkw-annual/2022/_2023_article-edition.pdf)
+- 📄 [2023 Student Edition](https://wskwellness.github.io/jkw-annual/2022/_2023_student-edition.pdf)
 
 ## Notes
 
