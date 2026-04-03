@@ -20,6 +20,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import re
 from pathlib import Path
 
 from pypdf import PdfReader
@@ -46,6 +47,78 @@ def clean_page_text(text: str) -> str:
     return "\n".join(cleaned).strip()
 
 
+def format_conference_text(raw_text: str) -> str:
+    """Apply markdown-friendly structure to extracted conference text."""
+    lines = [ln.strip() for ln in raw_text.splitlines()]
+    out: list[str] = []
+
+    time_re = re.compile(r"^\d{1,2}:\d{2}")
+    poster_re = re.compile(r"^(\d{1,2})\s+(.+)$")
+    session_re = re.compile(r"^Conference Sessions\s+[–-]\s+.+")
+
+    for ln in lines:
+        if not ln:
+            if out and out[-1] != "":
+                out.append("")
+            continue
+
+        # Drop standalone page numbers from source PDF extraction.
+        if re.fullmatch(r"\d+", ln):
+            continue
+
+        if session_re.match(ln):
+            if out and out[-1] != "":
+                out.append("")
+            out.append(f"## {ln}")
+            out.append("")
+            continue
+
+        if ln.startswith("Title:"):
+            title = ln.replace("Title:", "", 1).strip()
+            if out and out[-1] != "":
+                out.append("")
+            out.append(f"### {title}")
+            out.append("")
+            continue
+
+        if ln.startswith("Presenter:") or ln.startswith("Presenters:"):
+            label, value = ln.split(":", 1)
+            out.append(f"**{label}:** {value.strip()}")
+            out.append("")
+            continue
+
+        if ln.startswith("Abstract:"):
+            value = ln.replace("Abstract:", "", 1).strip()
+            out.append(f"**Abstract:** {value}")
+            out.append("")
+            continue
+
+        if "Poster Session" in ln and "Session" in ln:
+            if out and out[-1] != "":
+                out.append("")
+            out.append(f"## {ln}")
+            out.append("")
+            continue
+
+        # Avoid converting schedule times to poster items.
+        if not time_re.match(ln):
+            m = poster_re.match(ln)
+            if m and m.group(1) not in {"2023", "2022", "2024", "2025", "2026"}:
+                if out and out[-1] != "":
+                    out.append("")
+                out.append(f"### Poster {m.group(1)}")
+                out.append(m.group(2).strip())
+                out.append("")
+                continue
+
+        out.append(ln)
+
+    # Collapse repeated blank lines.
+    text = "\n".join(out)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
+
+
 def build_qmd(
     year: int,
     volume: int,
@@ -57,11 +130,8 @@ def build_qmd(
 ) -> str:
     page_counter_line = f"\\setcounter{{page}}{{{set_page}}}" if set_page else ""
 
-    body_blocks = []
-    for block in extracted_blocks:
-        body_blocks.append(block)
-
-    body = "\n\n---\n\n".join(body_blocks)
+    raw_body = "\n\n".join(extracted_blocks)
+    body = format_conference_text(raw_body)
 
     return f'''---
 title: "WSKW Chronicles"

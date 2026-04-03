@@ -32,10 +32,9 @@ format:
 
 \setcounter{page}{75}
 
-13
 2023 WSKW Annual Conference
 
-Conference Sessions – Thursday, October 5, 2023
+## Conference Sessions – Thursday, October 5, 2023
 
 8:00am-6:00pm  Registration Open    Foyer
 
@@ -43,19 +42,24 @@ Conference Sessions – Thursday, October 5, 2023
 
 8:30am-9:20am  Young Scholar Award Presentation  Grand Lake
 
-Title: Training Current and Future Health-related Practitioners to Accurately and Appropriately
+### Training Current and Future Health-related Practitioners to Accurately and Appropriately
+
 Disseminate Physical Activity Guidelines
 
-Presenter: Jafra Thomas (California Polytechnic State University)
+**Presenter:** Jafra Thomas (California Polytechnic State University)
 
-Abstract: Current and future health-related practitioners have low awareness of physical activity
+**Abstract:** Current and future health-related practitioners have low awareness of physical activity
+
 guidelines (PAGs) for general and clinical populations. The purpose of the present study was to critically
 appraise the quality of one 2021 draft training video, which was designed to help current and future
 health-related practitioners give advice consistent with general adult PAGs. A descriptive qualitative
 analysis was performed on open-ended responses provided by undergraduate research assistants (or recent
 alumni) affiliated with the first author’s lab and uninvolved in the video’s creation. Participation was
 optional, anonymous, and through an online questionnaire open for seven days in April 2021 (14 invited,
-8 participated, response rate = 57.14%). Participant feedback was compared to applicable standards of the
+
+### Poster 8
+participated, response rate = 57.14%). Participant feedback was compared to applicable standards of the
+
 RE-AIM framework (i.e., reach, efficacy, and adoption). Face validity and other quality measures were
 determined through qualitative analysis. The first author performed the descriptive analysis, and the
 second author, acting as a critical friend, independently verified the trustworthiness of the analysis. No
@@ -67,17 +71,16 @@ validity and could be effective within real-world educational settings for curre
 practitioners (e.g., low time burden, stimulating, informative). Future research should investigate learning
 outcomes to the video and its real-world implementation.
 
----
-
-14
 9:20am-9:30am  BREAK
 
 9:30am-9:50am  Academic Presentation   Grand Lake
 
-Title: Examining the source of stress among adapted physical education teachers
+### Examining the source of stress among adapted physical education teachers
 
-Presenter: Minhyun Kim (Sam Houston State University)
-Abstract: It is estimated that in the United States alone, eight percent of teachers leave the profession
+**Presenter:** Minhyun Kim (Sam Houston State University)
+
+**Abstract:** It is estimated that in the United States alone, eight percent of teachers leave the profession
+
 each year and this is the primary contributor to the teacher shortages nationally. Adapted physical
 education (APE) teachers are specifically at higher risk of leaving the profession compared to other
 groups of teachers as they often faced additional stressors such as marginalization, limited resources,
@@ -97,11 +100,12 @@ which APE teachers feel comfortable addressing concerns and seeking assistance w
 
 10:00am-10:50am  Academic Presentation   Grand Lake
 
-Title: How to Help Your Students Fall in Love with Running
+### How to Help Your Students Fall in Love with Running
 
-Presenter: Samantha Lewis (University of Idaho)
+**Presenter:** Samantha Lewis (University of Idaho)
 
-Abstract: The purpose of this oral presentation is to examine the philosophic principles underlying the
+**Abstract:** The purpose of this oral presentation is to examine the philosophic principles underlying the
+
 secret to falling in love with running. For some, the idea of falling in love with running is strange. How
 can we have a deep relationship with an activity? The conventional methods of teaching sport treat the
 body and activity as means to an end, or objects to manipulate, without awareness of how personhood
@@ -116,9 +120,6 @@ results are attributed to a lack of mental health resources. As former student-a
 collegiate coaches, we can attest that student-athletes need more resources. However, rarely do people
 want to discuss the “win-at-all-costs” culture in collegiate athletics is partially to blame. Coaches who
 
----
-
-15
 care about their relationship with their students, athletes, and selves are seeking alternatives to an
 objective view. They desire a deeper connection with sport—filled with meaning, beauty, and joy. Thus,
 the purpose of our philosophic presentation is to identify how to become lovers by increasing
@@ -132,10 +133,12 @@ origsite=gscholar&fromopenview=true
 
 11:00am-11:20am  Academic Presentation   Grand Lake
 
-Title: Qualitative Exploration of Women’s Leisure Career Interruption
+### Qualitative Exploration of Women’s Leisure Career Interruption
 
-Presenter: Soyoun Lim (Mississippi State University)
-Abstract: As women gain increased access to leisure, they have more opportunities to develop a leisure
+**Presenter:** Soyoun Lim (Mississippi State University)
+
+**Abstract:** As women gain increased access to leisure, they have more opportunities to develop a leisure
+
 career than ever before. However, maintaining a leisure career can be challenging when women are
 expected to be a main caregiver of the household. Leisure constraints have been used to explain how
 and why women drop out from casual and serious leisure. However, because career development
@@ -155,29 +158,37 @@ overcoming leisure career interruption, including leisure education, family, cou
 involvement of the spouse and other family members in the education programs.
 11:20am-11:30am  BREAK
 
-11:30am-12:30pm  Student and Faculty Poster Session   Montclair
+## 11:30am-12:30pm  Student and Faculty Poster Session   Montclair
 
 Poster
 Number
 Poster Title Position Author(s)
-1 Women’s
+
+### Poster 1
+Women’s
+
 Narratives of Sport
 Uniforms
 Faculty Elaine Foster (Idaho State University)
 
----
+### Poster 2
+How did residential
 
-16
-2 How did residential
 environments
 impact older rural
 adults' physical
 activity levels
 during the COVID-
-19 Pandemic?
+
+### Poster 19
+Pandemic?
+
 Faculty Minyong Lee, Sung-Jin Lee, Sheryl Robinson
 (North Carolina A&T State University)
-3 Antitrust
+
+### Poster 3
+Antitrust
+
 Jurisprudence,
 Global Monopoly,
 and Future of
@@ -186,7 +197,10 @@ Tournaments
 Faculty Sungho Cho (Bowling Green University) &
 Minyong Lee (North Carolina A&T State
 University)
-4 Effectiveness of
+
+### Poster 4
+Effectiveness of
+
 Marketing
 Strategies to
 Increase PETE
@@ -197,7 +211,10 @@ Student
 Todd Pennington, Zack Beddoes, Ashley
 Zundel, and Taleni Ta'ase (Brigham Young
 University)
-5 Collegiate Pre-
+
+### Poster 5
+Collegiate Pre-
+
 Service Teacher’s
 Empirically
 Experiences and
@@ -213,14 +230,20 @@ Boung Jin Kang (Elizabeth City State
 University), Minhyun Kim (Sam Houston
 State University), Yoonsin Oh (University of
 Wisconsin- Eau Claire)
-6 Effect of Early
+
+### Poster 6
+Effect of Early
+
 Surgery vs Physical
 Therapy on Knee
 Function (Article
 Critique)
 Student Nadine Casias & Gioella Chaparro
 (California State University, Dominguez Hills)
-7 PETE majors
+
+### Poster 7
+PETE majors
+
 perceptions of
 participating in a
 semester long high
@@ -230,12 +253,12 @@ Student  Karina Bues, Jack Stalnaker, Brandon
 Weekes, & David Barney
 (Brigham Young University)
 
----
-
-17
 practicum (Original
 Research)
-8 Plans to Ignite
+
+### Poster 8
+Plans to Ignite
+
 Inclusive Dialogue
 on Gender Issues in
 Sport Coaching &
@@ -251,12 +274,14 @@ Student Brendan Carter & Jafra Thomas
 
 1:40pm-2:00pm  Academic Presentation   Grand Lake
 
-Title: Daily heart rate variability is higher in regular exercisers versus matched non-exercisers with
+### Daily heart rate variability is higher in regular exercisers versus matched non-exercisers with
+
 similar chronic stressor profiles during the COVID 19 Pandemic.
 
-Presenters: Tina Twilleger & George Dallam (Colorado State University Pueblo)
+**Presenters:** Tina Twilleger & George Dallam (Colorado State University Pueblo)
 
-Abstract:  The COVID-19 pandemic, affecting individuals of diverse demographics, escalated stress levels
+**Abstract:** The COVID-19 pandemic, affecting individuals of diverse demographics, escalated stress levels
+
 and introduced novel health challenges (da Silveira, et al., 2020). This research aimed to explore
 variations in daily acute stress by analyzing daily morning heart rate (HR), the root mean square of
 successive differences between normal heartbeats (RMSSD), and a proprietary index of heart rate
@@ -278,21 +303,19 @@ periods of elevated chronic stress, as exemplified during the COVID-19 pandemic.
 
 2:00pm-2:10pm   BREAK
 
----
-
-18
 2:10pm-3:00pm   E.C. Davis Speaker   Grand Lake
-   Guillermo Escalante, California State University San Bernardino
+Guillermo Escalante, California State University San Bernardino
 
 3:00pm-3:10pm   BREAK
 
 3:10pm-3:30pm   Academic Presentation  Grand Lake
 
-Title: Knowing Student Names in Physical Education Class: Does it Make a Difference to the Student
+### Knowing Student Names in Physical Education Class: Does it Make a Difference to the Student
 
-Presenter: David Barney, Teresa Leavitt, & Keven Prusak (Brigham Young University)
+**Presenter:** David Barney, Teresa Leavitt, & Keven Prusak (Brigham Young University)
 
-Abstract: We have each been given a name that we are known throughout our lives, including the K-12
+**Abstract:** We have each been given a name that we are known throughout our lives, including the K-12
+
 educational setting.  Friends and teachers will address us by this name we have been given.  The physical
 education setting offers many opportunities for the student to be addressed by their name. The purpose
 of this study was to present the findings of PE teachers using student names and how it effects the
@@ -318,19 +341,18 @@ for PE teachers to know and learn their students’ names.
 
 3:40pm-4:30pm   Academic Presentation   Grand Lake
 
-Title: Attitudes matter when including and mentoring students with physical disabilities.
+### Attitudes matter when including and mentoring students with physical disabilities.
 
-Presenters: Aubrey Shaw & Sharon Kay Stoll (University of Idaho)
-Abstract: Unfair discrimination and justified exclusion lead students with physical disabilities to have
+**Presenters:** Aubrey Shaw & Sharon Kay Stoll (University of Idaho)
+
+**Abstract:** Unfair discrimination and justified exclusion lead students with physical disabilities to have
+
 negative experiences in physical education and sport. Additionally, many students with physical
 disabilities are not mentored in physical education or sport because of negative attitudes toward the
 population. However, laws do exist which supposedly demand inclusion of students with physical
 disabilities. Michael Oliver, a researcher in disability studies, discusses the treatment of students with
 physical disabilities by larger institutions. He argues laws are there but there is something amiss with
 
----
-
-19
 societies’ attitudes because students with physical disabilities are being excluded and the powerful
 people within the institutions allow it to occur. Oliver further argues that the abled bodied population
 may not understand their own biases towards this population. Laws are often maneuvered by leaders to
@@ -346,11 +368,12 @@ changing attitudes towards students with physical disabilities so they can be me
 
 4:40pm-5:00pm   Academic Presentation   Grand Lake
 
-Title: Assessment in Physical Education: Using a Programed Practice Sheet
+### Assessment in Physical Education: Using a Programed Practice Sheet
 
-Presenters: Sarah Ridge, Josie Donohoe, & Keven Prusak (Brigham Young University)
+**Presenters:** Sarah Ridge, Josie Donohoe, & Keven Prusak (Brigham Young University)
 
-Abstract: This presentation will describe the conceptual and theoretical frameworks for the
+**Abstract:** This presentation will describe the conceptual and theoretical frameworks for the
+
 development of an alternative form of assessment in physical education (PE). It has long been argued
 that PE teaches to all three domains, namely psychomotor, cognitive, and affective. Yet, there are very
 few assessment tools to do much more than fitness testing. Psychomotor tests (e.g., skill and fitness
@@ -378,19 +401,18 @@ for over ten specific units of instruction.
 
 5:10pm-5:30pm   Academic Presentation   Grand Lake
 
----
+### Advancing Equity in Physical Activity Promotion Material Through Direct Measure of
 
-20
-
-Title: Advancing Equity in Physical Activity Promotion Material Through Direct Measure of
 Comprehension: An Efficacy Study.
 
-Presenter: Jafra D. Thomas (California Polytechnic State University, San Luis Obispo), Zachary Zenko
+**Presenter:** Jafra D. Thomas (California Polytechnic State University, San Luis Obispo), Zachary Zenko
+
 (California State University, Bakersfield), Jasmine C. Wong (California Polytechnic State University, San
 Luis Obispo), Regina F. Hockert (California Polytechnic State University, San Luis Obispo), Yi Sheng Wu
 (California Polytechnic State University, San Luis Obispo), and Solana Martin (California Polytechnic State
 University, San Luis Obispo)
-Abstract: This presentations purpose is to report efficacy results to an ongoing replication study directly
+**Abstract:** This presentations purpose is to report efficacy results to an ongoing replication study directly
+
 studying physical activity promotion (PAP) material comprehensibility, an area with limited research.
 Method: The cloze procedure was applied to mock PAP materials, developed through previous research
 using the SMOG formula, and written at an 11th (typical) or 8th (max-recommended) grade reading
@@ -413,12 +435,9 @@ without supplemental instruction.
 6:00pm-6:50pm   Executive Committee Meeting  Montclair
 See you tomorrow!
 
----
-
-21
 2023 WSKW Annual Conference
 
-Conference Sessions – Friday, October 6, 2023
+## Conference Sessions – Friday, October 6, 2023
 
 8:00am-11:00am  Registration Open     Foyer
 
@@ -427,18 +446,20 @@ Conference Sessions – Friday, October 6, 2023
 8:50am-9:00am   BREAK
 
 9:00am-9:30am   Keynote Speaker     Grand Lake
-   Carole Casten, California State University Dominguez Hills
+Carole Casten, California State University Dominguez Hills
 
 9:30am-9:35am   BREAK
 
 9:35am-9:55am   Academic Presentation    Grand Lake
 
-Title: Good Governance Suggestions to Leaders of America’s Pastime: Analyzing Signs of Institutional
+### Good Governance Suggestions to Leaders of America’s Pastime: Analyzing Signs of Institutional
+
 Progress on the Issue of Minor League Pay Using Historical and Philosophical Perspectives
 
-Presenter: Mia I. Napolitano & Jafra Thomas (California State University, San Luis Obispo)
+**Presenter:** Mia I. Napolitano & Jafra Thomas (California State University, San Luis Obispo)
 
-Abstract: Baseball is often depicted in a celebratory light; yet, minor league baseball players have faced
+**Abstract:** Baseball is often depicted in a celebratory light; yet, minor league baseball players have faced
+
 wage inequities for many years. At the end of 2022, these injustices saw progress within the institution
 itself, where the Major League Baseball Player Association was granted legal permission to represent
 minor league players vis-à-vis its collective bargaining agreement (CBA). Purpose: The present study
@@ -452,9 +473,6 @@ league pay debate, (b) changes to MLB policy following social and legal pressure
 before and after the CBA. Source material obtained vis-à-vis the dyad’s previous investigations on the
 pay debate. Results: A succinct timeline was produced, showing legal and social challenges to MLB labor
 
----
-
-22
 policy. Timeline analysis elucidated ways MLB management fell short of good governance, or pushed
 against it, historically. The findings revealed ways the CBA changes represent positive institutional
 change but still falls short of redeeming the MLB. Conclusion: Study findings further demonstrate the
@@ -465,11 +483,14 @@ critiquing moral issues in sport.
 
 10:00am-10:20am  Academic Presentation   Grand Lake
 
-Title: Building Up Cal Poly Global Brigades Student Group: Reflections on Designing and Implementing
+### Building Up Cal Poly Global Brigades Student Group: Reflections on Designing and Implementing
+
 One Undergraduate-Led Community Info Session
 
-Presenters: Caroline Smith & Jafra Thomas (California State University, San Luis Obispo)
-Abstract: Global Brigades, an international non-profit organization, trains college students and other
+**Presenters:** Caroline Smith & Jafra Thomas (California State University, San Luis Obispo)
+
+**Abstract:** Global Brigades, an international non-profit organization, trains college students and other
+
 pre-professionals in community-based health promotion by mobilizing international community service
 trips, which are taught and led by local community-based organizations/coalitions. The Global Brigades
 student group at one California State University was founded in 2018, and thus far, they have carried
@@ -489,20 +510,19 @@ objectives, as well as program learning objectives for the Bachelor of Science d
 10:20am-10:25am   BREAK
 10:25am-10:45am  Academic Presentation   Grand Lake
 
-Title: Self-Presentation in a Pandemic: Female Olympic Track & Field Athletes Use of Instagram during
+### Self-Presentation in a Pandemic: Female Olympic Track & Field Athletes Use of Instagram during
+
 COVID-19
 
-Presenter: Heather Van Mullem (Lewis-Clark State College)
+**Presenter:** Heather Van Mullem (Lewis-Clark State College)
 
-Abstract: New media is changing the way athletes are marketing themselves and their careers. The
+**Abstract:** New media is changing the way athletes are marketing themselves and their careers. The
+
 power to create content is especially impactful for athletes who do not receive consistent and/or
 frequent coverage in mainstream sports media (Heinecken, 2015). Guided by Goffman’s (1959) self-
 presentation theory, the purpose of this study was to examine how female Olympic track and field
 athletes (n=15), competing in short-distance, long-distance, or throwing events, used Instagram to
 
----
-
-23
 create and manage their presentation of self during a global pandemic. Utilizing methodology in Geurin-
 Eagleman & Burch’s (2016) work, the last 100 photos from each athlete’s account were coded using
 multiple variables measuring the content of each photo (i.e., personal life, professional life, etc.) and
@@ -516,11 +536,12 @@ a global pandemic on athletes’ posts and self-presentation.
 
 10:50am-11:10am  Academic Presentation     Grand Lake
 
-Title: Asking Questions in Class
+### Asking Questions in Class
 
-Presenter: Gioella Chaparro (California State University, Dominguez Hills)
+**Presenter:** Gioella Chaparro (California State University, Dominguez Hills)
 
-Abstract: Silence in the classroom after you/your professor says “Does anyone have questions”
+**Abstract:** Silence in the classroom after you/your professor says “Does anyone have questions”
+
 is a phenomenon that occurs too often. The purpose of this study was to examine how often
 students ask/do not ask questions and reasons why. Ninety-seven Kinesiology undergraduate
 students (49 Males, mean age 24.2 ± 6.2 years) participated in the study. Participants answered
@@ -540,9 +561,5 @@ their classrooms. It is crucial to continue examining how implementing instructi
 can impact students learning experiences.
 
 11:10am   Closing Remarks    Grand Lake
-
----
-
-24
 
 See You Next Year!
