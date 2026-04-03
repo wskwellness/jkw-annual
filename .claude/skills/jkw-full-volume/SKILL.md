@@ -550,6 +550,43 @@ for final PDFs distributed from the `jkw-full` repository.
 
 ---
 
+### Step 11: PDF-Only Pages Workflow (No HTML Viewer)
+
+If the user only wants direct PDF links (no Quarto/HTML viewer pages), use this
+lean workflow:
+
+1. Keep `docs/.nojekyll` in the repository.
+2. Rename publication files in the year folder to underscore format:
+  - `_YYYY_annual-conference.pdf`
+  - `_YYYY_article-edition.pdf`
+  - `_YYYY_student-edition.pdf`
+3. Copy the renamed files into `docs/2022/` (current Pages public folder).
+4. Update `docs/README.md` with links and website snippet.
+5. Commit and push.
+
+Example commands:
+
+```bash
+cp 2023/annual-conference.pdf 2023/_2023_annual-conference.pdf
+cp 2023/article-edition.pdf 2023/_2023_article-edition.pdf
+cp 2023/student-edition.pdf 2023/_2023_student-edition.pdf
+
+cp 2023/_2023_annual-conference.pdf docs/2022/_2023_annual-conference.pdf
+cp 2023/_2023_article-edition.pdf docs/2022/_2023_article-edition.pdf
+cp 2023/_2023_student-edition.pdf docs/2022/_2023_student-edition.pdf
+```
+
+Resulting URL pattern:
+
+```text
+https://wskwellness.github.io/jkw-annual/2022/_YYYY_<edition>.pdf
+```
+
+Use this mode whenever the user asks for links that open PDFs directly and does
+not want any HTML wrapper pages.
+
+---
+
 ## Common Issues
 
 **`% TODO:` comments break LaTeX via Pandoc** → In QMD files, raw LaTeX `%` comment

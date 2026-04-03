@@ -18,3 +18,41 @@ This folder contains the final underscore-prefixed published PDFs that are serve
 
 - `.nojekyll` is present to ensure underscore-prefixed files are served.
 - Keep only the PDFs you want publicly available in `docs/2022/`.
+
+## PDF-Only Publishing Workflow
+
+1. Render the yearly PDFs in `YYYY/`.
+2. Rename each published PDF with the underscore convention:
+	 - `_YYYY_annual-conference.pdf`
+	 - `_YYYY_article-edition.pdf`
+	 - `_YYYY_student-edition.pdf`
+3. Copy the renamed files into `docs/2022/` (current public Pages folder).
+4. Add links below and commit/push.
+
+## Renaming Instructions
+
+Example for 2023:
+
+```bash
+cp 2023/annual-conference.pdf 2023/_2023_annual-conference.pdf
+cp 2023/article-edition.pdf 2023/_2023_article-edition.pdf
+cp 2023/student-edition.pdf 2023/_2023_student-edition.pdf
+
+cp 2023/_2023_annual-conference.pdf docs/2022/_2023_annual-conference.pdf
+cp 2023/_2023_article-edition.pdf docs/2022/_2023_article-edition.pdf
+cp 2023/_2023_student-edition.pdf docs/2022/_2023_student-edition.pdf
+```
+
+## Website HTML Snippet (Copy/Paste)
+
+```html
+<ul>
+	<li><a href="https://wskwellness.github.io/jkw-annual/2022/_2022_annual-conference.pdf" target="_blank" rel="noopener noreferrer"><span style="display:inline-block;padding:2px 6px;margin-right:8px;border:1px solid #b91c1c;border-radius:4px;color:#b91c1c;font-size:12px;font-weight:700;">PDF</span>Annual Conference</a></li>
+	<li><a href="https://wskwellness.github.io/jkw-annual/2022/_2022_article-edition.pdf" target="_blank" rel="noopener noreferrer"><span style="display:inline-block;padding:2px 6px;margin-right:8px;border:1px solid #b91c1c;border-radius:4px;color:#b91c1c;font-size:12px;font-weight:700;">PDF</span>Article Edition</a></li>
+	<li><a href="https://wskwellness.github.io/jkw-annual/2022/_2022_student-edition.pdf" target="_blank" rel="noopener noreferrer"><span style="display:inline-block;padding:2px 6px;margin-right:8px;border:1px solid #b91c1c;border-radius:4px;color:#b91c1c;font-size:12px;font-weight:700;">PDF</span>Student Edition</a></li>
+	<li><a href="https://wskwellness.github.io/jkw-annual/2022/_2023_annual-conference.pdf" target="_blank" rel="noopener noreferrer"><span style="display:inline-block;padding:2px 6px;margin-right:8px;border:1px solid #b91c1c;border-radius:4px;color:#b91c1c;font-size:12px;font-weight:700;">PDF</span>Annual Conference</a></li>
+	<li><a href="https://wskwellness.github.io/jkw-annual/2022/_2023_article-edition.pdf" target="_blank" rel="noopener noreferrer"><span style="display:inline-block;padding:2px 6px;margin-right:8px;border:1px solid #b91c1c;border-radius:4px;color:#b91c1c;font-size:12px;font-weight:700;">PDF</span>Article Edition</a></li>
+	<li><a href="https://wskwellness.github.io/jkw-annual/2022/_2023_student-edition.pdf" target="_blank" rel="noopener noreferrer"><span style="display:inline-block;padding:2px 6px;margin-right:8px;border:1px solid #b91c1c;border-radius:4px;color:#b91c1c;font-size:12px;font-weight:700;">PDF</span>Student Edition</a></li>
+</ul>
+```
+
