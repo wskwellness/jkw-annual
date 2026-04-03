@@ -3,6 +3,8 @@
 
 # Keep repo ignore rules tracked.
 !.gitignore
+!README.md
+!user-instructions.md
 !.claude/skills/jkw-full-volume/SKILL.md
 
 # Allow directory traversal so specific files below can be unignored.

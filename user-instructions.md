@@ -1,8 +1,8 @@
 # JKW Full Volume Repository
 
 This repository assembles the annual full-volume publication of the
-**Journal of Kinesiology & Wellness (JKW)**, including all editions and the
-WSKW Chronicles conference abstracts.
+**Journal of Kinesiology & Wellness (JKW)**, including all peer-reviewed articles
+and the WSKW Chronicles conference abstracts — output as a single PDF.
 
 ---
 
@@ -10,247 +10,184 @@ WSKW Chronicles conference abstracts.
 
 ```
 jkw-full/
-├── README.md                   ← you are here
-├── YYYY/                       ← one folder per year
-│   ├── render-YYYY.sh          ← run this to build everything
-│   ├── cover-YYYY.pdf/.png     ← cover image (user provides)
-│   ├── full_issue.qmd          ← master PDF: preface + articles + chronicles
-│   ├── article-edition.qmd     ← cover + preface + articles only
-│   ├── student-edition.qmd     ← cover + preface + student articles only
-│   ├── annual-conference.qmd   ← conference preface + chronicles
-│   ├── annual-conference-preface.qmd  ← conference welcome, speakers, leadership
-│   ├── annual-ed/
-│   │   └── preface.qmd         ← journal masthead, about, reviewers
-│   ├── chronicles/
-│   │   ├── _content.qmd        ← all conference abstract content
-│   │   └── YYYY_WSKW_Chronicles.qmd  ← standalone chronicles PDF
+├── user-instructions.md          ← you are here
+├── build_full_volume.py          ← single script that builds the PDF
+├── volume_config_template.yaml   ← copy this to start a new year
+├── info_template.md              ← copy this to start the masthead
+├── YYYY/
+│   ├── volume_config.yaml        ← fill in titles, files, cover for this year
+│   ├── cover-YYYY.pdf/.png       ← cover image (user provides)
+│   ├── JKW_YYYY_Full_Volume.pdf  ← output: the finished single PDF
 │   └── sources/
-│       ├── manuscripts/        ← drop final article PDFs here
-│       ├── reviewers/          ← reviewer lists (index.md)
-│       └── conference/         ← raw conference program/abstract docs
+│       ├── manuscripts/
+│       │   ├── info.md           ← masthead: editors, board, reviewers (optional)
+│       │   └── *.pdf             ← final article PDFs
+│       └── conference/           ← WSKW Chronicles PDF
 ```
+
+**Output page order:** Cover → Masthead (if info.md present) → TOC → Articles → WSKW Chronicles
 
 ---
 
-## How to Compile a New Issue
+## How to Build a New Issue
 
-### Step 1 — Set up the year folder
-
-Copy the previous year's folder as a starting point:
+### Step 1 — Create the year folder
 
 ```bash
-cp -r 2023/ 2024/
+mkdir -p YYYY/sources/manuscripts
+mkdir -p YYYY/sources/conference
 ```
 
-Then rename the year-specific files:
+---
+
+### Step 2 — Drop the files in place
+
+| File | Where to put it |
+|------|-----------------|
+| Cover image (`.pdf` or `.png`) | `YYYY/cover-YYYY.pdf` (or `.png`) |
+| Final article PDFs | `YYYY/sources/manuscripts/` |
+| WSKW Chronicles PDF | `YYYY/sources/conference/` |
+| Masthead info (optional) | `YYYY/sources/manuscripts/info.md` |
+
+Filenames should have no spaces. Example: `eastman-etal-2025.pdf`
+
+#### About `info.md` (optional but recommended)
+
+If `sources/manuscripts/info.md` is present, the script automatically generates a
+formatted masthead page and inserts it between the cover and the TOC. It includes
+the About / Open Access / Copyright boilerplate, the h-index, editorial team, and
+reviewer lists. Copy `info_template.md` from the repo root to get started:
 
 ```bash
-cd 2024/
-mv chronicles/2023_WSKW_Chronicles.qmd chronicles/2024_WSKW_Chronicles.qmd
-mv render-2023.sh render-2024.sh
+cp info_template.md YYYY/sources/manuscripts/info.md
 ```
 
-Update the year references inside the renamed files.
+Then fill in the fields. If no `info.md` is present the build still runs — the
+masthead page is simply omitted.
 
 ---
 
-### Step 2 — Drop article PDFs into `sources/manuscripts/`
+### Step 3 — Create `YYYY/volume_config.yaml`
 
-Place all finalized article PDFs in `YYYY/sources/manuscripts/`.  
-Filenames should be clean (no spaces). Example: `eastman-etal-2024.pdf`
-
----
-
-### Step 3 — Update `annual-ed/preface.qmd`
-
-Fill in for the new year:
-
-| Field | Where |
-|---|---|
-| Volume & year | Reviewer section headers (`Vol XX, No 1, YYYY`) |
-| Editor-in-Chief | Masthead block |
-| Associate Editor | Masthead block (omit section if none) |
-| WSKW Executive Director | Masthead block |
-| Editorial board members | Two-column board block |
-| Annual edition reviewers | `Reviewers for Vol XX, No 1` block |
-| Student edition reviewers | `Reviewers for Vol XX, No 2` block (omit if none) |
-| Google Scholar h-index | `Journal Qualification` section |
-| Editor contact email | Last line of About section |
-
-> **Reference:** See `2022/annual-ed/preface.qmd` for the canonical layout.
-
----
-
-### Step 4 — Update `chronicles/_content.qmd`
-
-Replace all abstract content with the new year's conference abstracts:
-
-- Keynote speaker header
-- E.C. Davis Lecture header
-- Each abstract as a `##` section followed by the abstract text and a `---` divider
-- Student Poster Session table (if applicable)
-- Faculty Poster Session table (if applicable)
-
----
-
-### Step 5 — Update `chronicles/YYYY_WSKW_Chronicles.qmd`
-
-Update:
-- `title`, `subtitle`, `date`, `author` in the YAML front matter
-- `\setcounter{page}{N}` — set to the page number where the chronicles begin
-  in the full issue (i.e., the page after the last article ends)
-
----
-
-### Step 6 — Update `annual-conference-preface.qmd`
-
-Fill in:
-- Conference number (e.g., 68th Annual)
-- Conference theme, dates, location
-- Welcome message from the President-Elect
-- Featured speakers (Keynote + E.C. Davis Lecture) with bios
-- WSKW Leadership Team
-
----
-
-### Step 7 — Update edition QMDs
-
-In `full_issue.qmd`, `article-edition.qmd`, `student-edition.qmd`:
-
-- Update `\includepdf` paths to point to the new article PDF filenames
-- Update `addtotoc` titles to match the exact published article titles
-- Update `\setcounter{page}{N}` values so page numbers are continuous
-- Update the cover image filename
-
-> **Page numbering rules:**
-> - `full_issue.qmd`: Arabic starts at page **3** (pages i–ii are Roman front matter)
-> - `article-edition.qmd` and `student-edition.qmd`: Arabic starts at page **1**
-> - The WSKW Chronicles `\setcounter` must match the page after the last article in `full_issue`
-
----
-
-### Step 8 — Render everything
-
-Run from the **repo root** (`jkw-full/`):
+Copy the template and fill it in:
 
 ```bash
-bash YYYY/render-YYYY.sh
+cp volume_config_template.yaml YYYY/volume_config.yaml
 ```
 
-This renders all 6 files in the correct dependency order:
+Edit `volume_config.yaml` and fill in:
 
-1. `annual-ed/preface.qmd` → `preface.pdf`
-2. `chronicles/YYYY_WSKW_Chronicles.qmd` → `YYYY_WSKW_Chronicles.pdf`
-3. `full_issue.qmd` → `full_issue.pdf`
-4. `article-edition.qmd` → `article-edition.pdf`
-5. `student-edition.qmd` → `student-edition.pdf`
-6. `annual-conference.qmd` → `annual-conference.pdf`
+| Field | What to enter |
+|-------|--------------|
+| `year` | e.g., `2025` |
+| `volume` | e.g., `14` |
+| `issue` | e.g., `1` |
+| `cover_image` | filename of the cover PNG (e.g., `cover-2025.png`) |
+| `output_file` | desired output filename (e.g., `JKW_2025_Full_Volume.pdf`) |
+| `articles` | list of articles in order — file path and exact title |
+| `chronicles.file` | path to the Chronicles PDF |
+| `chronicles.title` | TOC label for the Chronicles section |
 
-> `preface.pdf` and `YYYY_WSKW_Chronicles.pdf` **must** exist before the
-> edition QMDs render — the script handles this automatically.
+Articles appear in the PDF in the order they are listed here. Prefix your PDF
+filenames with numbers (`01_`, `02_`, …) so the order is visible in the folder,
+then list them in that same order. The TOC is a flat list — no sections.
 
 ---
 
-## Common Issues
+### Step 4 — Build the PDF
 
-**`compilation failed — error: Cannot find file 'annual-ed/preface.pdf'`**  
-→ The preface hasn't been rendered yet. Run `render-YYYY.sh` (not individual files).
+Run from the repo root (`jkw-full/`):
 
-**`Paragraph ended before \addcontentsline was complete`**  
-→ A `% comment` line in the QMD body is being escaped to `\%` by Pandoc.
-Remove any `%`-style comments from the raw LaTeX sections of QMD files.
+```bash
+python3 build_full_volume.py YYYY/volume_config.yaml
+```
 
-**Wrong page numbers in the TOC**  
-→ The `\setcounter{page}{N}` values are off. Open the final PDF, count actual
-pages per article, then update the counters and re-render.
+The script will:
+1. Process the cover image → single PDF page
+2. Count pages in every article and the Chronicles PDF
+3. Auto-generate a formatted Table of Contents with correct page numbers
+4. Merge everything into one PDF: **Cover → TOC → Articles → WSKW Chronicles**
 
-**Cover page appearing in TOC**  
-→ Ensure `\pagenumbering{gobble}` appears before the cover `\includepdf` line.
+Output is saved to `YYYY/JKW_YYYY_Full_Volume.pdf`.
 
 ---
 
 ## Year Index
 
-| Year | Volume | Render script |
-|------|--------|---------------|
-| 2022 | Vol 11, No 1 | *(no script — assembled manually)* |
-| 2023 | Vol 12, No 1 | `2023/render-2023.sh` |
-| 2024 | Vol 13, No 1 | *(pending)* |
-| 2025 | Vol 14, No 1 | *(pending)* |
-| 2026 | Vol 15, No 1 | *(pending)* |
+| Year | Volume | Config file | Output |
+|------|--------|-------------|--------|
+| 2022 | Vol 11, No 1 | `2022/volume_config.yaml` | [`2022/JKW_2022_Full_Volume.pdf`](https://wskwellness.github.io/jkw-annual/2022/_2022_full-volume.pdf) |
+| 2023 | Vol 12, No 1 | `2023/volume_config.yaml` | `2023/JKW_2023_Full_Volume.pdf` |
+| 2024 | Vol 13, No 1 | *(pending)* | — |
+| 2025 | Vol 14, No 1 | *(pending)* | — |
+| 2026 | Vol 15, No 1 | *(pending)* | — |
 
 ---
 
-## PDF-Only Publishing Workflow (GitHub Pages)
+## Publishing to GitHub Pages
 
-Use this workflow when the user only needs direct PDF links (no HTML viewer pages).
+Once the full-volume PDF is built, publish it for distribution.
 
-1. Render yearly PDFs in `YYYY/`.
-2. Rename each publication PDF:
-  - `_YYYY_annual-conference.pdf`
-  - `_YYYY_article-edition.pdf`
-  - `_YYYY_student-edition.pdf`
-3. Copy each renamed PDF into `docs/YYYY/`.
-4. Ensure `docs/.nojekyll` exists.
-5. Commit and push.
-
-### Renaming Example (2023)
+### Rename and copy to `docs/`
 
 ```bash
-cp 2023/annual-conference.pdf 2023/_2023_annual-conference.pdf
-cp 2023/article-edition.pdf 2023/_2023_article-edition.pdf
-cp 2023/student-edition.pdf 2023/_2023_student-edition.pdf
-
-mkdir -p docs/2023
-cp 2023/_2023_annual-conference.pdf docs/2023/_2023_annual-conference.pdf
-cp 2023/_2023_article-edition.pdf docs/2023/_2023_article-edition.pdf
-cp 2023/_2023_student-edition.pdf docs/2023/_2023_student-edition.pdf
+cp YYYY/JKW_YYYY_Full_Volume.pdf docs/YYYY/_YYYY_full-volume.pdf
 ```
 
-### URL Pattern
+### Ensure `.nojekyll` exists
 
-```text
-https://wskwellness.github.io/jkw-annual/YYYY/_YYYY_<edition>.pdf
+```bash
+touch docs/.nojekyll
+```
+
+### Commit and push
+
+```bash
+git add docs/YYYY/
+git commit -m "Publish YYYY full volume"
+git push
+```
+
+### URL pattern
+
+```
+https://wskwellness.github.io/jkw-annual/YYYY/_YYYY_full-volume.pdf
+```
+
+### Website HTML snippet (copy/paste)
+
+```html
+<a href="https://wskwellness.github.io/jkw-annual/YYYY/_YYYY_full-volume.pdf"
+   target="_blank" rel="noopener noreferrer">
+  <strong>[PDF]</strong> Full Volume (Vol XX, No 1, YYYY)
+</a>
 ```
 
 ---
 
-## Website HTML Snippets (Copy/Paste)
+## Previous Years (Legacy — Quarto/LaTeX Builds)
 
-Use these as separate snippets for easier copy and paste.
+Years 2022–2023 were assembled using Quarto `.qmd` files and a LaTeX render
+pipeline. Those files remain in their year folders for archival reference but
+are no longer part of the active workflow. The 2023 volume has been re-built
+using the new script and is available as `2023/JKW_2023_Full_Volume.pdf`.
 
-### 2022 Annual Conference
+---
 
-```html
-<a href="https://wskwellness.github.io/jkw-annual/2022/_2022_annual-conference.pdf" target="_blank" rel="noopener noreferrer"><strong>[PDF]</strong> Annual Conference</a>
-```
+## Troubleshooting
 
-### 2022 Article Edition
+**`ERROR: Cover not found`**
+→ Check the filename in `volume_config.yaml` matches the actual file in `YYYY/`.
 
-```html
-<a href="https://wskwellness.github.io/jkw-annual/2022/_2022_article-edition.pdf" target="_blank" rel="noopener noreferrer"><strong>[PDF]</strong> Original Research</a>
-```
+**`ERROR: Article N not found`**
+→ Verify the PDF was placed in `sources/manuscripts/` and the filename in the
+config matches exactly (case-sensitive, no spaces).
 
-### 2022 Student Edition
+**`ERROR: Chronicles not found`**
+→ Confirm the Chronicles PDF is in `sources/conference/` and the path in the
+config is correct.
 
-```html
-<a href="https://wskwellness.github.io/jkw-annual/2022/_2022_student-edition.pdf" target="_blank" rel="noopener noreferrer"><strong>[PDF]</strong> Student-Led Original Research</a>
-```
-
-### 2023 Annual Conference
-
-```html
-<a href="https://wskwellness.github.io/jkw-annual/2023/_2023_annual-conference.pdf" target="_blank" rel="noopener noreferrer"><strong>[PDF]</strong> Annual Conference</a>
-```
-
-### 2023 Article Edition
-
-```html
-<a href="https://wskwellness.github.io/jkw-annual/2023/_2023_article-edition.pdf" target="_blank" rel="noopener noreferrer"><strong>[PDF]</strong> Original Research</a>
-```
-
-### 2023 Student Edition
-
-```html
-<a href="https://wskwellness.github.io/jkw-annual/2023/_2023_student-edition.pdf" target="_blank" rel="noopener noreferrer"><strong>[PDF]</strong> Student-Led Original Research</a>
-```
+**TOC page numbers look wrong**
+→ The script calculates page numbers automatically from actual PDF page counts —
+no manual counting needed. If numbers look off, check that no article PDF is
+missing or duplicated in the config.
