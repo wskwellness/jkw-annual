@@ -24,31 +24,31 @@ output_file: JKW_2023_Full_Volume.pdf
 # file is relative to the year folder.
 
 articles:
-  - file: sources/manuscripts/01_acute_beetroot_supplementation.pdf
+  - file: sources/manuscripts/01-eastman-2023.pdf
     title: "Acute Beetroot Supplementation May Improve Blood Pressure But Not Exercise Economy in Female Masters Swimmers"
     page_start: 1
 
-  - file: sources/manuscripts/02_acute_effects_sets_volume.pdf
+  - file: sources/manuscripts/02-marchetti-2023.pdf
     title: "Acute Effects of Different Number of Sets and Non-Equalized Volume on Muscle Thickness, Peak Force, and Physical Performance in Recreationally-Trained Participants"
     page_start: 10
 
-  - file: sources/manuscripts/03_adult_outdoor_play_preferences.pdf
+  - file: sources/manuscripts/03-Rhea-2023.pdf
     title: "Adult Outdoor Play Preferences: Why Nature Space Design Matters"
     page_start: 20
 
-  - file: sources/manuscripts/04_bmi_sex_fundamental_movement.pdf
+  - file: sources/manuscripts/04-bolin-2023.pdf
     title: "Examining the Relationship Between BMI, Sex, and Fundamental Movement Skill Performance in Low-Income Rural Children"
     page_start: 30
 
-  - file: sources/manuscripts/05_hr_variability_covid19.pdf
+  - file: sources/manuscripts/05-twilleger-2023.pdf
     title: "Daily Heart Rate Variability is Higher in Regular Exercisers Versus Matched Non-Exercisers with Similar Chronic Stressor Profiles During the COVID-19 Pandemic"
     page_start: 38
 
-  - file: sources/manuscripts/06_positive_negative_self_talk.pdf
+  - file: sources/manuscripts/06-saucedo-2023.pdf
     title: "Effects of Positive and Negative Self-Talk on Balance and Postural Sway in College Students"
     page_start: 45
 
-  - file: sources/manuscripts/07_weight_bias_fitness_industry.pdf
+  - file: sources/manuscripts/07-walters-2023.pdf
     title: "Explicit Weight Bias Concerns in the Fitness Industry: A Quantitative Analysis"
     page_start: 57
 
