@@ -560,7 +560,7 @@ lean workflow:
   - `_YYYY_annual-conference.pdf`
   - `_YYYY_article-edition.pdf`
   - `_YYYY_student-edition.pdf`
-3. Copy the renamed files into `docs/2022/` (current Pages public folder).
+3. Copy the renamed files into `docs/YYYY/`.
 4. Update `docs/README.md` with links and website snippet.
 5. Commit and push.
 
@@ -571,15 +571,16 @@ cp 2023/annual-conference.pdf 2023/_2023_annual-conference.pdf
 cp 2023/article-edition.pdf 2023/_2023_article-edition.pdf
 cp 2023/student-edition.pdf 2023/_2023_student-edition.pdf
 
-cp 2023/_2023_annual-conference.pdf docs/2022/_2023_annual-conference.pdf
-cp 2023/_2023_article-edition.pdf docs/2022/_2023_article-edition.pdf
-cp 2023/_2023_student-edition.pdf docs/2022/_2023_student-edition.pdf
+mkdir -p docs/2023
+cp 2023/_2023_annual-conference.pdf docs/2023/_2023_annual-conference.pdf
+cp 2023/_2023_article-edition.pdf docs/2023/_2023_article-edition.pdf
+cp 2023/_2023_student-edition.pdf docs/2023/_2023_student-edition.pdf
 ```
 
 Resulting URL pattern:
 
 ```text
-https://wskwellness.github.io/jkw-annual/2022/_YYYY_<edition>.pdf
+https://wskwellness.github.io/jkw-annual/YYYY/_YYYY_<edition>.pdf
 ```
 
 Use this mode whenever the user asks for links that open PDFs directly and does
