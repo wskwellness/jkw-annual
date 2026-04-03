@@ -6,6 +6,7 @@
 !README.md
 !user-instructions.md
 !build_full_volume.py
+!volume_config_template.yaml
 !.claude/skills/jkw-full-volume/SKILL.md
 
 # Allow directory traversal so specific files below can be unignored.

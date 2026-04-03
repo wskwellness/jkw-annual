@@ -87,6 +87,8 @@ Edit `volume_config.yaml` and fill in:
 | `articles` | list of articles in order — file path and exact title |
 | `chronicles.file` | path to the Chronicles PDF |
 | `chronicles.title` | TOC label for the Chronicles section |
+| `chronicles.start_page` | *(optional)* first Chronicles page to include (1-based) |
+| `chronicles.end_page` | *(optional)* last Chronicles page to include (1-based, inclusive) |
 
 Articles appear in the PDF in the order they are listed here. Prefix your PDF
 filenames with numbers (`01_`, `02_`, …) so the order is visible in the folder,

@@ -5,17 +5,17 @@
 # ─────────────────────────────────────────────────────────────
 
 # ── Volume metadata ──────────────────────────────────────────
-year: 2023
-volume: 12        # e.g., Vol 12
+year: 2025
+volume: 14        # e.g., Vol 14
 issue: 1          # e.g., No 1
 
 # ── Cover image ──────────────────────────────────────────────
-# Path is relative to the year folder (e.g., 2023/)
-cover_image: cover-2023.png   # .pdf or .png (both work)
+# Path is relative to the year folder (e.g., 2025/)
+cover_image: cover-2025.png   # .pdf or .png (both work)
 
 # ── Output ───────────────────────────────────────────────────
 # Name of the final merged PDF (saved inside the year folder)
-output_file: JKW_2023_Full_Volume.pdf
+output_file: JKW_2025_Full_Volume.pdf
 
 # ── Articles ─────────────────────────────────────────────────
 # List articles in the order they should appear in the PDF.
@@ -24,41 +24,25 @@ output_file: JKW_2023_Full_Volume.pdf
 # file is relative to the year folder.
 
 articles:
-  - file: sources/manuscripts/01-eastman-2023.pdf
-    title: "Acute Beetroot Supplementation May Improve Blood Pressure But Not Exercise Economy in Female Masters Swimmers"
-    page_start: 1
+  - file: sources/manuscripts/01_article.pdf
+    title: "Full Article Title As It Should Appear in the TOC"
 
-  - file: sources/manuscripts/02-marchetti-2023.pdf
-    title: "Acute Effects of Different Number of Sets and Non-Equalized Volume on Muscle Thickness, Peak Force, and Physical Performance in Recreationally-Trained Participants"
-    page_start: 10
+  - file: sources/manuscripts/02_article.pdf
+    title: "Second Article Title"
 
-  - file: sources/manuscripts/03-Rhea-2023.pdf
-    title: "Adult Outdoor Play Preferences: Why Nature Space Design Matters"
-    page_start: 20
+  - file: sources/manuscripts/03_article.pdf
+    title: "Third Article Title"
 
-  - file: sources/manuscripts/04-bolin-2023.pdf
-    title: "Examining the Relationship Between BMI, Sex, and Fundamental Movement Skill Performance in Low-Income Rural Children"
-    page_start: 30
-
-  - file: sources/manuscripts/05-twilleger-2023.pdf
-    title: "Daily Heart Rate Variability is Higher in Regular Exercisers Versus Matched Non-Exercisers with Similar Chronic Stressor Profiles During the COVID-19 Pandemic"
-    page_start: 38
-
-  - file: sources/manuscripts/06-saucedo-2023.pdf
-    title: "Effects of Positive and Negative Self-Talk on Balance and Postural Sway in College Students"
-    page_start: 45
-
-  - file: sources/manuscripts/07-walters-2023.pdf
-    title: "Explicit Weight Bias Concerns in the Fitness Industry: A Quantitative Analysis"
-    page_start: 57
-
+  # Add more entries as needed…
 
 # ── WSKW Chronicles ──────────────────────────────────────────
 # Provide the Chronicles as a pre-built PDF.
 # This is the combined conference PDF (program info + abstracts).
 # Path is relative to the year folder.
 chronicles:
-  file: sources/conference/2023-WSKW-Conference-Program-100423.pdf
-  title: "WSKW Chronicles: 2023 WSKW Annual Conference"
-  start_page: 13
-  end_page: 24
+  file: sources/conference/2025_WSKW_Chronicles.pdf
+  title: "WSKW Chronicles: 2025 WSKW Annual Conference"
+  # Optional: include only selected pages from the conference PDF
+  # (1-based, inclusive). Omit both to include the entire file.
+  # start_page: 13
+  # end_page: 24

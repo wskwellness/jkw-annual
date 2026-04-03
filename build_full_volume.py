@@ -541,6 +541,20 @@ def main(config_path: str):
     if not chron_path or not chron_path.exists():
         errors.append(f"  Chronicles not found: {chronicles.get('file', '(not set)')}")
 
+    chron_reader = None
+    chron_total_pages = 0
+    chron_start = 1
+    chron_end = 0
+    if chron_path and chron_path.exists():
+        chron_reader = PdfReader(str(chron_path))
+        chron_total_pages = len(chron_reader.pages)
+        chron_start = int(chronicles.get("start_page", 1))
+        chron_end = int(chronicles.get("end_page", chron_total_pages))
+        if chron_start < 1 or chron_end < chron_start or chron_end > chron_total_pages:
+            errors.append(
+                f"  Chronicles page range invalid: start_page={chron_start}, "
+                f"end_page={chron_end}, file has {chron_total_pages} pages")
+
     if errors:
         print("\nERRORS — fix these before building:\n")
         for e in errors:
@@ -614,7 +628,7 @@ def main(config_path: str):
         print(f"      p{entry['page']}\u2013{end}  ({n} pp)  {Path(fpath).relative_to(base)}")
 
     chron_entry = next(e for e in page_map if e["type"] == "chronicles")
-    chron_pages = pdf_page_count(str(chron_path))
+    chron_pages = chron_end - chron_start + 1
     print(f"      p{chron_entry['page']}\u2013{chron_entry['page'] + chron_pages - 1}  ({chron_pages} pp)  {chronicles['file']}")
 
     # ── Step 4: Build TOC (final, with correct page numbers) ──────────────────
@@ -641,9 +655,8 @@ def main(config_path: str):
         for page in reader.pages:
             writer.add_page(page)
 
-    chron_reader = PdfReader(str(chron_path))
-    for page in chron_reader.pages:
-        writer.add_page(page)
+    for i in range(chron_start - 1, chron_end):
+        writer.add_page(chron_reader.pages[i])
 
     total_pages = len(writer.pages)
 
