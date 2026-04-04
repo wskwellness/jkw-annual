@@ -1,35 +1,15 @@
 # Whitelist mode: ignore everything by default.
 *
 
-# Keep repo ignore rules tracked.
+# Keep repo ignore rules and README tracked.
 !.gitignore
 !README.md
-!user-instructions.md
-!build_full_volume.py
-!volume_config_template.yaml
-!scripts/**/*.py
-!.claude/skills/jkw-full-volume/SKILL.md
 
-# Allow directory traversal so specific files below can be unignored.
-!*/
-
-# Only track PDFs that start with an underscore.
-!**/_*.pdf
-# Track info and config data files per volume (non-archive state).
-!**/info.md
-!**/volume_config.yaml
-!**/sources/conference/*.qmd
-# Allow a minimal GitHub Pages site under docs/.
+# Allow directory traversal into docs/.
 !docs/
 !docs/**/
 !docs/.nojekyll
-!docs/**/*.qmd
-!docs/**/*.css
-!docs/index.html
 !docs/**/*.html
 !docs/**/*.pdf
 docs/**/*_files/
-
-# Rename any PDF you want to publish with a leading underscore.
-# Example: 2026/_full_issue.pdf
 
