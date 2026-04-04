@@ -1,0 +1,44 @@
+# ─────────────────────────────────────────────────────────────
+# JKW Full Volume — Configuration File
+# Year: 2025  |  Vol 14, No 1
+# ─────────────────────────────────────────────────────────────
+
+# ── Volume metadata ──────────────────────────────────────────
+year: 2025
+volume: 14
+issue: 1
+
+# ── Cover image ──────────────────────────────────────────────
+cover_image: cover-2025.pdf
+
+# ── Output ───────────────────────────────────────────────────
+output_file: JKW_2025_Full_Volume.pdf
+
+# ── Articles ─────────────────────────────────────────────────
+articles:
+  - file: sources/manuscripts/01-knudson-2025.pdf
+    title: "Use of Sports as a Label in Google Scholar Profiles"
+
+  - file: sources/manuscripts/02-rickel-2025.pdf
+    title: "Changing Language and University Students' Exercise Motivations"
+
+  - file: sources/manuscripts/03-fehr-2025.pdf
+    title: "The Coach-Athlete Relationship and NCAA Student-Athlete Satisfaction"
+
+  - file: sources/manuscripts/04-webb-2025.pdf
+    title: "A Preliminary Study to Explore Muscular Strength and Neuromuscular Control Differences in Elementary-aged Children"
+
+  - file: sources/manuscripts/05-morris-2025.pdf
+    title: "Is there Proprioceptive Comfort?"
+
+  - file: sources/manuscripts/06-choe-2025.pdf
+    title: "The Effect of Stroboscopic Vision on Dynamic Postural Stability in Uninjured Individuals"
+
+  - file: sources/manuscripts/07-ransdell-2025.pdf
+    title: "Teamwork Makes the Dream Work: Strategies for Successful Interdisciplinary Collaboration and Research (IDCR) in Kinesiology"
+
+# ── WSKW Chronicles ──────────────────────────────────────────
+# Using curated QMD (rendered to PDF by the build script)
+chronicles:
+  qmd: sources/conference/2025_WSKW_Chronicles.qmd
+  title: "WSKW Chronicles: 2025 WSKW Annual Conference"
