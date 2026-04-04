@@ -1,0 +1,35 @@
+# ─────────────────────────────────────────────────────────────
+# JKW Full Volume — Configuration File
+# Year: 2024  |  Vol 13, No 1
+# ─────────────────────────────────────────────────────────────
+
+# ── Volume metadata ──────────────────────────────────────────
+year: 2024
+volume: 13
+issue: 1
+
+# ── Cover image ──────────────────────────────────────────────
+cover_image: cover-2024.png
+
+# ── Output ───────────────────────────────────────────────────
+output_file: JKW_2024_Full_Volume.pdf
+
+# ── Articles ─────────────────────────────────────────────────
+articles:
+  - file: sources/manuscripts/01-thomas-2024.pdf
+    title: "Training Current and Future Health-related Practitioners to Accurately and Appropriately Disseminate Physical Activity Guidelines"
+
+  - file: sources/manuscripts/02-machetti-2024.pdf
+    title: "Comparison of Myoelectric Activity Between Standing and Lying Plate Press Exercises in Recreationally-Trained Participants"
+
+  - file: sources/manuscripts/03-thomas-2024.pdf
+    title: "Comprehension of Physical Activity Promotion Material: A Retrospective and Comparative Analysis"
+
+  - file: sources/manuscripts/04-ross-2024.pdf
+    title: "The Status of Physical Education in Arizona's Colleges and Universities"
+
+# ── WSKW Chronicles ──────────────────────────────────────────
+# Using curated QMD (rendered to PDF by the build script)
+chronicles:
+  qmd: sources/conference/2024_WSKW_Chronicles.qmd
+  title: "WSKW Chronicles: 2024 WSKW Annual Conference"

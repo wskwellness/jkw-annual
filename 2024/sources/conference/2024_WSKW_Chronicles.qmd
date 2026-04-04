@@ -1,0 +1,550 @@
+---
+title: "WSKW Chronicles"
+subtitle: "2024 WSKW Conference Abstracts"
+date: "2024-01-01"
+author: "Journal of Kinesiology and Wellness, 2024"
+format:
+  pdf:
+    documentclass: article
+    fontsize: 11pt
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+    header-includes:
+      - \usepackage{titling}
+      - \pretitle{\begin{center}\LARGE\bfseries}
+      - \posttitle{\end{center}}
+      - \preauthor{\begin{center}\large}
+      - \postauthor{\end{center}}
+      - \predate{\begin{center}\large}
+      - \postdate{\end{center}}
+---
+
+## Keynote Presentation: Integrative Healing
+\setcounter{page}{1}
+**Rachel Hollingsworth, Arizona State University**
+
+## E.C. Davis Lecture
+**Bethany Shifflett, Professor Emeritus, San Jose State University**
+
+---
+
+# ABSTRACTS
+
+## Instructional Applications of Pecha Kucha Presentations
+**Jim Ave (Fresno Pacific University)**
+
+PechaKucha (pronounced pe-cha-ku-cha) means “chitchat” in Japanese and are fast-paced presentations using images rather than text. The purpose of this presentation is to 1) explain the PechaKucha (PK) application and research that supports its effectiveness, 2) use of PK in higher education, and 3) how to develop a PK presentation and the inherent challenges. PK was developed in Japan by Astrid Klein and Mark Dytham of Klein Dytham architecture to help presenters tell a story rather than describing slides. Typical PKs are limited to 20 slides at a rate of 20 seconds per slide for a total presentation time of 6 minutes and 40 seconds. Research has found this style of presentations are more interesting and engaging as compared to typical presentations. It has been shown to improve student learning and engagement, supports critical thinking skills, and builds confidence. This presentation style provides an option for students to experience learning in a new way. PKs can be used as a substitution for instructor’s lectures and can assist students to effectively and concisely communicate concepts and theories. Some of the challenges with this presentation method includes: requiring more practice time, difficulty in finding images that represent the material or topic, and limits content due to time constraints.
+
+---
+
+## Using A Strengths Perspective to Advance Students Education
+**Jim Ave (Fresno Pacific University)**
+
+Traditional educational systems use a deficit remediation model to correct student deficiencies. A strengths perspective offers an alternative model which suggests that educators focus their energy, time, and resources on developing what students do best, while managing their deficiencies. A strength is defined by Clifton as “… the ability to provide consistent, near-perfect performance in a given activity” and is made up of several components: talent, energy, knowledge, and skill. The purpose of this presentation is to provide 1) an overview of the strengths perspective principle, 2) a summary of higher education strengths perspective research, 3) how to use this perspective for enhancing student performance, and 4) highlights potential applications of this perspective to promote student achievement in all educational settings.
+
+---
+
+## Ethnic Differences in Health-Related Quality of Life, Physical Activity, and Health Locus of Control
+**Kimberly Feiler (La Sierra University)**
+
+Introduction: Although people know the importance of physical activity (PA), not everyone engages in it regularly and in sufficient amounts. The Centers for Disease Control and Prevention (CDC) gathers PA data among different ethnic groups in the United States. Asians have the highest number of adults with at least some leisure-time PA at nearly 80% (79.9%), followed by Caucasians/Whites (C/Ws) at 73%, Alaska Natives/American Indians (AN/AIs) at 70.9%, Blacks/African Americans (B/AAs) at 70%, and Hispanics/Latinos (H/Ls) at 67.9%.
+
+Purpose: This research aimed to better understand the differences in health-related quality of life (HRQoL: general health, physical functioning), PA, and health locus of control (HLOC: internal, external-chance, external-powerful others, God) among various ethnic groups.
+
+Methods: Participants voluntarily answered questions about their ethnic identity, HRQoL, PA level, and HLOC. A multiple regression analysis was conducted to analyze the interaction of variables.
+
+Results: The study’s sample included 185 individuals, 22 to 81 years of age, who attended or worked at one of three religiously-affiliated higher education institutions during 2020 to 2021.
+
+Conclusion: The majority of respondents showed high levels of PA. However, the scores for HLOC and HRQoL varied widely among ethnicities, with minority groups showing higher scores than non-minorities for external HLOC categories, as well as lower scores for both HRQoL categories. Such differences call for better understanding of HLOC and HRQoL in different ethnic groups.
+
+---
+
+## Impact of Academic Role on Physical Activity, Health Locus of Control, and Health-Related Quality of Life
+**Kimberly Feiler & Anusha Thomas (La Sierra University)**
+
+Introduction: Nearly 80% of adult Americans do not achieve enough physical activity (PA). Insufficient PA health risks include weaker bones and muscles, poor weight management, diabetes, high blood pressure, increased risk of heart disease, and some cancers. These dramatically impact quality of life. The long-term financial and physical costs of physical inactivity average $90 billion annually.
+
+Purpose: This research investigated physical activity (PA), health locus of control, and health-related quality of life for adults working and or enrolled at higher education institutions in California.
+
+Methods: Roles were full-time or part-time: student, faculty, or staff. One questionnaire combined four surveys, with added demographic questions.
+
+Results: Over 65% of respondents reported high PA, 28% moderate, and 5% low. Part-time staff reported the greatest amount of high PA; full-time students showed the highest scores for health locus of control’s “God” scale; and part-time faculty reported the highest scores for health-related quality of life’s general health.
+
+Conclusions: The college and university campus is a vital space for health education. Through improving understanding of how role impacts PA, health locus of control, and health-related quality of life, health programs can be better designed for health behavior changes and improve health outcomes. This research was the first to look at differences among students, staff, and faculty.
+
+---
+
+## Integrative Healing
+**Rachel Hollingsworth (Arizona State University)**
+
+Keynote address.
+
+---
+
+## Heroes & Mentors
+**Karen Hostetter (Northern Arizona University)**
+
+Introduction: With the theme of the 2024 WSKW Annual Conference being about historical figures and how they shaped our paths,
+
+Purpose: The goal of this presentation is to introduce unique features of this year’s conference and to ignite thoughtful reflection and discussion about the people in our lives, famous and personal, who have influenced the direction our lives have taken.
+
+Method: Key influencers and their role will be identified, followed by opportunity for audience members to share about important figures in their lives.
+
+Discussion: The importance of personal and professional history cannot be understated. An understanding of historical milestones and personalities keeps us humble and helps us avoid attitudes of privilege. Sharing with others what is important to us promotes respect, interest, and empathy.
+
+---
+
+## Surviving & Thriving in a Multigenerational Workplace
+**Karen Hostetter (Northern Arizona University)**
+
+Introduction: News and social media outlets are full of reports of young professionals leaving positions after just a few years, or less. Not only are young professionals leaving for similar positions with better salaries, but they are leaving entire professions for which they invested countless hours and tuition to enter. Anecdotally, more seasoned professionals are frustrated with a perceived lack of commitment from younger colleagues; young professionals are tired of the “stuffy,” senior employees, who cannot relax in the workplace.
+
+Purpose: The primary purpose of this presentation is to introduce the theoretical framework of generational diversity and to summarize research identifying each workforce generation from the 1950s through the 2020s. The secondary purpose is to describe challenges and benefits of working in a multigenerational workforce setting. Finally, this presentation will serve as a catalyst to a round-table discussion on the topic of the multigenerational workforce.
+
+Method: This presentation was developed after attending the 2024 Annual Conference of the Rocky Mountain Athletic Trainers’ Association, where a colleague addressed similar information specifically about multigenerational athletic trainers. Additional references were gathered to ensure the presentation addresses new, updated information and kinesiology-supported professional disciplines beyond athletic training.
+
+Results: After attending this presentation participants will be challenged to adopt a culture of support and stability in the workplace conducive to generational diversity.
+
+Conclusion: As the presentation ends the audience will be asked to gather into groups, attempting to include each of the identified generations in each group to provide a variety of perspectives during the discussion.
+
+---
+
+## Using Service Learning in Undergraduate Adapted Physical Activity Courses
+**Minhyun Kim, Boung Jin Kang, Yeonhak Jung & Dal Hyun Moon (Sam Houston State University; Elizabeth City State University; California State University, Northridge; California State University, East Bay)**
+
+Introduction: Service learning (SL) has been extensively incorporated in kinesiology. Adapted physical activity (APA) is an ideal course for providing kinesiology students with SL opportunities to work with individuals with disabilities.
+
+Purpose: The SL project in APA is designed to bridge the gap between theory and practice. Specifically, SL provides kinesiology students with an opportunity to teach a wide range of sports skills and physical activities to local K to 12 children with disabilities (130 students from 8 schools). The SL project takes place during class hours, six times in 12 weeks, that is, every other week, each semester. The current project focused on differentiating instruction to meet each participant's needs, interests, and abilities.
+
+Method: To examine kinesiology students’ experiences in an SL project for children with disabilities, 33 undergraduates’ reflection essays were collected. Each reflection essay was evaluated via a directed approach to qualitative content analysis.
+
+Result: Five main themes emerged from the data: (a) contact and prior experience, (b) personal growth and academic learning, (c) future career aspirations, (d) biased language, and (e) recommendations for adapted physical education SL.
+
+Discussion: The results of this study provide several implications for the design and structure of SL projects in APA courses. The future direction is how to incorporate the best practices about contact time, duration, and course structure to successfully accomplish the academic objectives for kinesiology students and provide the best services to children with disabilities.
+
+---
+
+## The Coaches’ Dilemma: What Will You Do to Win?
+**Samantha Lewis & Sharon K. Stoll (University of Idaho)**
+
+Introduction: Presently 70% of youth sport athletes drop out by the age of 13. The reason: burnout from the pressure to win and succeed. It is just not fun anymore. Winning, results, and scores are valuable and do create the game. Humans, however, are complex, multi-dimensional beings who cannot be defined by game stats. Competition can be positive, but balance is needed to find enjoyment and healthy outcomes. Coaches need help in using a healthier alternative to the objective goal of results and numbers. The subjective, joyful, lived experience is why we play and compete. Coaching through the subjective experience creates success.
+
+Purpose: This oral presentation will offer an effective approach to coaching through the subjective, using examples from novel research involving modern technologies like podcasting combined with Socratic maieutic reflective practices.
+
+Method: A podcast, “The Coach’s Dilemma: What Will You Do to Win?” was created in 2024 based on a coach development program of 12 episodes using tenets of philosophy of sport like the aesthetic experience and play.
+
+Result: Each podcast episode discusses topics that pertain to the lived experience, discussed with topic experts, and engages the audience with reflective questions.
+
+Discussion: Early research using this format has succeeded in developing athlete self-reflection and personal competitive philosophy (Sowa, 2022). The research aim is to aid coaches in their daily dilemma to balance the objective and subjective coaching tools to ensure athletes do not experience burnout and regain why they became an athlete, the love of game and play.
+
+---
+
+## Perception is Everything: Factors that Influence Inclusion of Students with Physical Disabilities in Physical Education
+**Aubrey Shaw & Sharon K. Stoll (University of Idaho)**
+
+Introduction: The Rehabilitation Act (1973), the Americans with Disabilities Act (1990), and the Individuals with Disabilities Education Act (2004) are to create inclusion for students with physical disabilities. Even though the laws are in place, school administrators and teachers find themselves in a moral conundrum regarding including students with physical disabilities. How does the physical education teacher engage both able-bodied students and students with physical disabilities equally? Most would argue the teacher cannot serve both populations to the best of each population’s physical ability.
+
+Perception is everything and certain factors influence inclusion. First, the professional notion exists amongst teachers that able-bodied students will not have an optimal experience or reach their physical potential if students with physical disabilities are included in the same classroom setting. The result is limited examination of exclusionary ideologies. Second, a professional fear exists amongst teachers that students with physical disabilities will get hurt while participating with able-bodied students. Thus, segregation of students with physical disabilities from able-bodied peers is rationalized with little to no questioning of this ideology by educators, administrators, and the public. However, are the arguments for segregation valid?
+
+Purpose: The purpose of this presentation is twofold: 1) discuss the moral conundrum of inclusion with students who have divergent physical abilities and 2) provide counterpoints against segregated physical education spaces which could enhance inclusion of people with physical disabilities in sport, exercise, and physical recreation activities.
+
+---
+
+## The Moral Conundrum for Pre-service Physical Educators while Teaching Inclusion: How Do We Include Students with Physical Disabilities? A Case Study
+**Aubrey Shaw (University of Idaho)**
+
+Introduction: Teachers always try to do good. However, how does one do so when a moral conundrum appears? For example, how does a teacher do good when two diametrically different populations are enrolled in physical education class. How does the physical education teacher engage both able-bodied students and students with physical disabilities equally? Most would argue the teacher cannot serve both populations to the best of each population’s physical ability. Attitudes are powerful and are formed through various experiences. It is not that the profession or professionals are trying to exclude, rather, the reality is life gets in the way. Experience clouds much of what we do. The result is pre-service teachers justifying exclusion learned from their own collegiate instructors. The cycle of exclusion and discrimination continues not because the teachers are unfair, but rather occurs because of a moral conundrum.
+
+Purpose: The purpose of this presentation, therefore, is threefold: 1) to discuss attitudes towards students with physical disabilities, 2) to give examples through a case study of how inclusion can be a fruitful part of the classroom curriculum for pre-service teachers and 3) to provide results and a discussion of a case study completed in the 2020 to 2021 academic year in which university pre-service teachers were immersed in an inclusion curriculum.
+
+Discussion: Pre-service teachers can be prepared to teach this population and attitudes can positively shift. The conclusion focuses on a solution for collegiate instructors to solve a moral conundrum and prepare pre-service teachers to include.
+
+---
+
+## In Concert We Shape the Future
+**Bethany Shifflett (Professor Emeritus, San Jose State University)**
+
+E.C. Davis Lecture.
+
+---
+
+## DEI, Diversity, Equity and Inclusivity, and Research: A Talk on the Role Manuscript Submission Guidelines May Play in Mitigating Representation Issues in Kinesiology Research
+**Jafra Thomas, Jill M. Maples, Shannon R. Siegel, James W. Navalta, Matthew J. Garver, Vivianne Felker, Deanna Jun, Alexis W. Willing, Joel D. Reece & Dustin W. Davis (California Polytechnic State University, San Luis Obispo; University of Tennessee; University of California, San Francisco; University of Nevada, Las Vegas; University of Central Missouri; Brigham Young University, Hawaii)**
+
+Introduction: Limited and biased representation in kinesiology research has been documented and is concerning.
+
+Purpose: Given these findings, can we truly generalize study outcomes to the general population? Does study design or reporting tendencies perpetuate problematic societal biases?
+
+Method and Results: Jo et al. (2024) systematically reviewed 854 original research articles from peer-reviewed literature on sport-related concussion; only 15.5% reported participant race and 7.6% reported ethnicity. Hagstrom et al. (2021) analyzed original cohort research in sports medicine between 2004 and 2020 (K = 29), and found unisex male-only studies (k = 19) were nearly twice as common as mixed-sex studies (k = 10). Scholars have even examined patterns in original research presented and discussed at kinesiology academic conferences.
+
+Discussion: These findings illustrate recurrent representation issues: (1) under-reporting, such as few studies of diverse demographics, (2) misreporting, such as incomplete reporting within study abstracts, and (3) biased recruitment favoring demographic groups who have unjustifiable and problematic societal privileges. These representational issues, frequently overlooked, raise doubt about the applicability, reliability, and validity of kinesiology empirical knowledge. This presentation further summarizes these issues in kinesiology research, then discusses their impact on kinesiology higher education instruction and areas of practice. Before concluding, the presenters share a draft protocol for how manuscript submission guidelines may improve representation in kinesiology research and invite audience feedback.
+
+---
+
+## The Invisible Labor of Love to Promote Equitable Grading Using Active In-Class Learning: Is Student-Led Discussion Necessary?
+**Jafra Thomas & Victoria Bradshaw (California Polytechnic State University, San Luis Obispo)**
+
+Introduction: Most college students may be unwilling to contribute frequently, if at all, to verbal class-wide discussions intended to progress organically. Within their 2023 WSKW Conference presentation titled “Asking Questions in Class,” Dr. Gioella Chaparro discussed the challenges faced when attempting to elicit organic verbal discussion from students taking an undergraduate biomechanics course. Those observations are not isolated events.
+
+Purpose: This presentation builds off Chaparro’s 2023 analysis and discussion through a focus on the presenters’ own experiences teaching general education, upper-division kinesiology undergraduate courses focused on psychosocial topics.
+
+Method: The presenters utilize an autoethnographic and reflective mode of inquiry to recount and critically examine student reticence to participating in class discussions, despite utilizing inclusive teaching practices and active learning activities.
+
+Discussion: After the summary, the audience is invited to discuss ways stalled, or under-participation within, synchronous class-wide discussions may undermine efforts to close grade-equity gaps within kinesiology undergraduate courses. Students who proactively contribute to organic verbal discussions engage in high-impact learning practices known to foster deeper learning by promoting integrative understanding of concepts, topics, and research perspectives examined within a course, and by rectifying potential pieces of misinformation held by the student. These learning outcomes catalyzed through verbal discussions are the things mainly assessed through summative learning assessments utilized within upper-division courses.
+
+---
+
+## Remembering Trailblazers! Dr. Walter S. Hamerslough: Mentor and Leader for Over Four Decades
+**Robert Thomas (La Sierra University)**
+
+This presentation celebrates Dr. Walt Hamerslough’s contributions to the field of kinesiology and is built upon his publications, presentations, and interviews. Dr. Hamerslough was a distinguished educator and advocate for holistic wellness who participated and led in the Western Society from the 1960s through the 2000s. In his teaching, presentations, and publications he championed the successful fusion of moral values with pedagogical practices while emphasizing the importance of character development.
+
+Walt Hamerslough was an active member of the Western College Men’s Physical Education Society from the 1960s into the 2000s. It was during his year as President in 2006 that the organization transformed its name to become the Western Society for Kinesiology and Wellness. His passion for young faculty members’ personal and professional growth exemplified the core values of WSKW with its motto, “Where the conferee is the program and mentoring and networking are the foundation.” He annually brought faculty colleagues and undergraduate students to the conference, was a regular contributor to business meetings, and often collaborated to update the Operating Code.
+
+While Dr. Hamerslough addressed several domains within the field such as motor learning, strength training, and health, he was most active in exploring with others the interactions of philosophy, moral values, and Christianity within the field of sport and competition.
+
+Through this presentation, attendees gain valuable insights into fostering a culture of integrity and compassion in their local workspaces and within the profession.
+
+---
+
+## Changing Landscapes in Higher Education: Personal and Professional Reflections
+**Cathy Tingstrom & Cuauhtemoc Carboni (Utah Valley University; Imperial Valley College)**
+
+Introduction: Young professionals and future leaders in higher education will be tasked with navigating a different and ever-changing landscape when striving for student success in their classrooms. From legislative initiatives that impact workforce development and teacher education, relationships with university programs and state systems of higher education regarding retention of students, to the impact of AI on classrooms and scholarship, these changes are substantial.
+
+Purpose: Provide insight to key issues that are facing systems of higher education that impact the classroom and to provide young professionals suggestions for navigating these challenges.
+
+Method: Discussion.
+
+Desired Outcome: Increased awareness and practical strategies to improve classroom effectiveness and professional success.
+
+Discussion: Brainstorm potential areas of research.
+
+---
+
+## Her Story in Sports History: Impact, Influence & Leadership of Female Trailblazers in Kinesiology and Sport
+**Heather Van Mullem & Karen Hostetter (Lewis Clark State College; Northern Arizona University)**
+
+Introduction: The recent elevation in popularity of women’s collegiate, professional, and international sports has been a long time coming. Women are gaining visibility and recognition of the skills and dedication it takes to perform at the highest level of athletics. Physical activity and wellness are a cornerstone of a productive society. Trained in physical education, fitness, wellness, and sport, physical activity and wellness professionals, and their knowledge, are essential to creating healthy communities.
+
+Purpose: Aligning with the WSKW conference theme, this shared presentation blends a historical perspective of some of the pioneers in women’s sports and the impact of their dedication on today’s professionals and participants, and explores findings of a qualitative study which examined the lived experiences of female physical educators, kinesiologists, and or sports studies scholars (N = 16) through semi-structured interviews.
+
+Methods: Information for this presentation was gathered using two separate methods. The primary information was gathered by performing a literature search using MeSH terms such as Title IX, women in sport, and women’s sports history. The second portion of data was gathered from a qualitative study which examined the lived experiences of female physical educators, kinesiologists, and or sports studies scholars through semi-structured interviews.
+
+Results: The literature search produced references with information about women’s sports participation pre and post Title IX, as well as defining intent and limits of the law. The interviews revealed careers that have spanned decades, and the significant impact on the field, and influence on current best practices.
+
+Discussion: Session attendees will: 1) explore the findings of this study, 2) examine suggestions to improve mentoring of the next generation of physical education, kinesiology, and sport professionals, 3) discuss effective leadership strategies identified and modeled by study participants, and 4) identify tangible strategies to implement positive mentoring and leadership techniques to continue to help grow the field and invest in the success of future professionals.
+
+---
+
+## Progress Report on the Relationships Between Muscle Fitness and Radial Bone Strength in Older Adults
+**Emily Van Horn (California State University, East Bay)**
+
+Faculty Sponsors: Cathy Inouye, Albert Mendoza, Jennifer Sherwood, Vanessa Yingling
+
+Introduction: Declining muscular fitness and bone mass disproportionately affect older adults and are associated with declining functional ability and loss of an independent lifestyle. This project studied the relationships of sit-to-stand velocity (STSv) and hand grip strength (HGS) to bone strength (BS). STSv, an assessment of lower limb power, and HGS, indicative of overall strength, are easily performed in the field.
+
+Bone strength has been associated with muscle fitness, however the relationship to muscle strength and power has yet to be resolved in older adults. Here, relationships between HGS and lower limb power to bone parameters of the radius are examined in older adults ages 60 to 95 years.
+
+Methods: Sixty participants, 55% women, were recruited from the community. Bone strength was assessed with peripheral quantitative computed tomography (pQCT), lower limb power with a linear position transducer, and HGS with a hand-grip dynamometer.
+
+Results: High correlation was found between combined HGS, the sum of peak HGS for right and left, and peak lower limb power (r = 0.63). HGS was associated with cortical area (r = 0.65), moment of inertia and bone strength (r = 0.69; r = 0.71), and total area at the 66% site (r = 0.70). Peak lower limb power was associated with cortical area (r = 0.58), moment of inertia and bone strength (r = 0.67; r = 0.68), and total area at the 66% site (r = 0.71). Moderate correlation was found for HGS and trabecular density (r = 0.41).
+
+Conclusions: These data suggest that muscle fitness testing may be a promising tool to monitor bone strength in older adults.
+
+---
+
+## Baseball Antitrust Exemption: Historical Perspectives and Recent Case Development
+**Sungho Cho (Bowling Green State University)**
+
+Introduction: Sport leagues produce entertainment services by organizing athletic competitions. Their business requires coordination among diverse stakeholders such as teams, media, merchandisers, and sponsors. Leagues also implement restrictive labor practices, such as restricted free agency, draft, salary cap, franchise tag, and others, to maintain competitive balance. Such collaborative governance and labor policies are frequently subject to antitrust scrutiny since the Sherman Act prohibits concerted action among competitors that may unreasonably restrain trade in a relevant market.
+
+Purpose: The purpose of this study is the examination of the baseball exemption doctrine in federal antitrust law and its current jurisprudence to understand how the legal doctrine has affected the baseball industry and to extrapolate the future of the controversial precedent.
+
+Method: Legal analysis of relevant case law is conducted. Selected antitrust cases filed against sport leagues are scrutinized: *Toolson v. New York Yankees* (1953), *Flood v. Kuhn* (1972), *American Needle v. NFL* (2010), *NCAA v. Alston* (2021), *Concepcion v. MLB* (2023), and *Casey’s Distributing Inc. v. MLB* (2022).
+
+Results: While the controversial legal doctrine has been upheld by various courts, the apparent anachronism and relevant economic dynamics have prompted legislative intervention and or judicial reexamination of the doctrine.
+
+Conclusions: The current bench of the U.S. Supreme Court might be more open to challenges to the validity of the precedent, evidenced in *NCAA v. Alston* (2021) and *Dobbs v. Jackson Women’s Health Organization* (2022). Legislative intervention would be possible too.
+
+---
+
+## Leisure Participation Methods of Active Seniors Pioneering Death: A Cross-sectional Study
+**Young Jae Kim, A Young Kong, Seung Hee Jang, Yeon Kim & Jeong Hyung Cho (Chung-Ang University; Kyungil University)**
+
+Introduction: Active seniors, aged 65 and older, eventually face the later stages of life and death. Preparing for this stage is crucial for a meaningful conclusion to life. Engaging in leisure activities, driven by internal satisfaction and voluntary participation, is key to enhancing quality of life, with outcomes varying based on involvement. This study explored how leisure engagement among active seniors influences well-dying, focusing on differences based on gender, age, income, health, leisure type, and participation frequency.
+
+Methods: A total of 289 active seniors from Seoul, South Korea, participated in this study, which used convenience sampling. The research instruments included the Leisure Engagement Scale and the Well-Dying Scale. Exploratory analyses were conducted to ensure data reliability and validity.
+
+Results: Among the participants, 140 were males (48.4%) and 149 were females (51.6%), with sports being the most common leisure activity (35.6%). The analysis showed that age, income, subjective physical and mental health, leisure type, and frequency of participation were significantly associated with leisure engagement. Additionally, gender and leisure frequency were associated with well-dying perception. A positive correlation was found between leisure engagement and well-dying.
+
+Conclusions: This study highlights the positive impact of leisure activities on the well-being of seniors. The findings provide essential insights for developing tailored leisure programs to improve seniors' quality of life, offering valuable guidance for elderly care providers in designing health promotion strategies.
+
+---
+
+## Motives Related to Physical Activity for Older Adults with Different Types of Residential Environments
+**Minyong Lee, Sung-Jin Lee, Elizabeth Hopfer & Sheryl Robinson (North Carolina A&T State University, Greensboro)**
+
+Introduction: Social-ecological models suggest that influences on physical activity for older adults should be examined on multiple levels. Previous research indicates that significant behavioral determinants of regular physical activity participation include motives, environmental factors, psychological factors, and demographic characteristics. However, most prior studies have investigated these determinants separately.
+
+Purpose: The purpose of the study is to examine older adults’ motivation to participate or not participate in physical activity on a regular basis by integrating these factors through their particular motives for participation and their residential environments.
+
+---
+
+## A Gender-Inclusive Approach in Common Sport and Exercise Science Measurements Using the All of Us Research Program Dataset
+**James Navalta, Dustin W. Davis, Jason Flatt, Joshua D. Wooldridge, Juliet L. Moore, Jafra D. Thomas & Whitley J. Stone (University of Nevada, Las Vegas; North Dakota State University; University of Southern California; California Polytechnic State University, San Luis Obispo; Western Kentucky University)**
+
+Introduction: Few sport and exercise science studies are gender-inclusive. Of 151,043 participants in a recent evaluation, one identified as transgender, and three as another gender identity. Using inclusive methods is important.
+
+Purpose: The purpose was to quantify how a lack of representation affected data interpretation.
+
+Method: All of Us subgroup data were analyzed for adults 18 to 30 years (N = 29,415) with gender as the grouping variable: female, male, non-binary, transgender, and additional options. Outcomes included body mass and body mass index. Measures were initially compared using independent t-tests between females and males. Measures were then compared via one-way ANOVA among gender groups.
+
+Results: Body mass and BMI were different between females and males (p < 0.001). When other genders were included, differences were present for both outcomes (p < 0.001). Notably, body mass differences were observed to be lower in females than non-binary, transgender, and additional options. Females had lower BMI than non-binary, while males were lower than transgender, non-binary, and additional options. Non-binary, transgender, and other options did not differ from each other in any outcome.
+
+Conclusions: Overall, these data reveal the need for a more gender-inclusive approach in sport and exercise science measurements. Given that body mass measures are important aspects of many progressive training programs, gender-inclusive measures should be employed to thoroughly understand diverse physiologic training responses.
+
+---
+
+## Playful Teaching & Engaged Learning: Strategies to Infuse Play into Your Sport Psychology Class
+**Heather Van Mullem & Linda Sterling (Lewis Clark State College; University of Colorado Boulder)**
+
+Introduction: Creating meaningful classroom learning experiences can positively impact student understanding of course material, enhance student engagement, improve student accountability for learning, and develop a sense of connectedness and belonging between students and with their campus community. One way to create meaningful learning experiences is to build play into course design and delivery. Play is a powerful and effective teaching and learning strategy.
+
+Purpose: This poster will 1) explore play as a teaching strategy, 2) identify and describe examples of games and playful learning activities designed to help students learn, retain, and apply sport psychology concepts, and 3) provide tangible strategies to help instructors design and deliver a curriculum centered around using games and play as a teaching tool.
+
+---
+
+## The Gut Microbiome and How ADHD and Parkinson’s Disease May be Linked
+**April McCoy (California State University, Monterey Bay)**
+
+Faculty Mentor: Dr. Maria Bellumori
+
+Introduction: There is growing interest in the gut microbiome and its effects on the central nervous system. Good bacteria in the gut play a role in neurotransmitter synthesis and regulation which contribute to central nervous system control. Excess bad bacteria may lead to leaky gut syndrome and neuroinflammation. Dysbiosis is a negative imbalance of the two bacteria and is associated with disease and decreased dopamine synthesis. Decreased dopamine plays a pivotal role in the manifestation of symptoms associated with attention-deficit hyperactivity disorder and Parkinson’s disease.
+
+Methods: A review of five articles was utilized for this project.
+
+Results: Supporting the hypothesis, results from this literature review demonstrate a potential link between ADHD and Parkinson’s disease due to disruption in dopamine synthesis. Additionally, probiotic supplementation has been shown to decrease symptoms in those with ADHD and is hypothesized to decrease symptoms of Parkinson’s disease. Probiotic supplementation is also hypothesized to protect the central nervous system and prevent neurological disorders.
+
+Conclusion: Utilization of probiotics may serve as an inexpensive and non-invasive intervention to protect against development of neurological disorders and warrants more research.
+
+---
+
+## The Influence of Pre-Workout Supplement Trends on Exercise Performance and Health
+**Dustin Orluck (San Jose State University)**
+
+Faculty Mentor: Daniel Bohigian
+
+Introduction: Growing social media platforms such as TikTok have showcased influencers that have spurred a new popularity surrounding fitness content that heavily influences a largely young adult audience. The popular trend of dry-scooping pre-workout supplement powder, which is ingesting the supplement powder orally without solvent, has given the product a social correlation with improved sport performance as well as stereotyped dry scooping ingestion as the main way pre-workout should be taken.
+
+Purpose: In this literature review, the author addresses ingestion of supplemental pre-workout powders to determine if dry-scooping is an effective and safe method of ingestion.
+
+Methods: Five scholarly articles were cited via the Martin Luther King Jr. Library from San Jose State University, utilizing the SPORTDiscus and PubMed databases. Articles were chosen based on their date of publication, ranging from 2010 to 2024.
+
+Results: Pre-workout supplement powder was found to have varying effects on general sport performance, notably to the same degree as caffeine. Additionally, pre-workout products on average were labeled incorrectly, omitting important ingredients in the composition list thus compromising product purity, which the FDA has maintained a passive role in regulating since the 1980s. Furthermore, dry scooping was reported by individuals 16 to 30 years of age as a habit they emulated from fitness influencers, with more instances rising as more time was spent on social media.
+
+Conclusion: Overall, given the lack of efficacy and compromised safety of pre-workout powder, individuals should not engage in dry scooping and should opt for caffeine products such as coffee or energy drinks.
+
+Keywords: Pre-workout, supplements, social media, dry scooping, social media influencers.
+
+---
+
+## Inequality in Healthcare Access and Utilization among Undocumented Latinx Individuals in the US: What Should the Position of Kinesiology & Wellness Professionals be on this Issue?
+**Kevin Castaneda (California Polytechnic State University, San Luis Obispo)**
+
+Faculty Mentor: Dr. Jafra D. Thomas
+
+Introduction: To ensure individual wellbeing, institutions and political factors must be understood and addressed by kinesiology and wellness professionals. However, kinesiology and wellness students may seldom learn about research perspectives examining institutional and political factors undermining undocumented immigrants' timely access and utilization of preventative healthcare services, including wellness screenings and healthy lifestyle counseling.
+
+Purpose: This presentation’s purpose is to engage WSKW conference attendees in discussion about research examining viewpoints for and against healthcare for all.
+
+Methods: Components of this presentation come from two assignments from two undergraduate courses at Cal Poly, San Luis Obispo, Sociology of Health and Illness and Intro to Interdisciplinary Studies, which resulted in a research-informed blog post and two slideshow presentations. The student analyzed relevant scholarly articles addressing institutional and political factors preventing or delaying healthcare utilization by undocumented Latinx immigrants.
+
+Results: Key findings were that the US does not provide universal healthcare unlike many other countries; anti-immigrant policy and rhetoric increase prevalence of poor mental and physical health not only among undocumented immigrants; and healthcare is very expensive even with insurance or community-volunteer clinics, thus many demographic groups delay seeking healthcare or services regardless of immigration status.
+
+Conclusion: These findings explain why many individuals become pessimistic or apathetic about their health, as the student personally experienced and observed. The audience will be invited to contemplate and discuss the relevance of these findings to kinesiology and wellness professionals.
+
+---
+
+## Tackling Obesity in the Pacific Islander Population: A Call for Community-Level Solutions
+**Joshua Eng (California Polytechnic State University, San Luis Obispo)**
+
+Faculty Mentor: Dr. Jafra D. Thomas
+
+Introduction: Nearly 75% of Pacific Islander adults are overweight or obese, according to the World Health Organization.
+
+Purpose: Given obesity is often defined as an individual problem, the purpose of this project was to understand this health concern from a wider lens, by researching historical and systemic causal factors and community-level solutions.
+
+Methods: Findings of this original project were composed into an opinion-editorial essay completed through an undergraduate course on Health, Stress, and Chronic Illness. The student produced the op-ed by adhering to op-ed writing guidelines, completing scaffolding assignments within peer-learning communities, and revising preliminary drafts following peer review.
+
+Results: Several historical and systemic causes were identified, including disruption of traditional food systems and lifestyles following colonization, leading to reliance on imported unhealthy foods; forced economic dependencies on colonial powers made island communities vulnerable to market fluctuations and food insecurity; and commercial practices replacing traditional diets rich in fish, root vegetables, and fruits with highly processed foods high in sugar and unhealthy fats. Identified community-level solutions included implementing community-based agricultural initiatives aimed at promoting food sovereignty and security, revitalizing food systems and enhancing access to nutritious food through school-based programs, and bolstering economic empowerment within communities.
+
+Conclusion: Findings of this op-ed raise awareness of the ways historical injustice, structural inequalities, and socioeconomic pressures cause pervasive obesity epidemics in Pacific Islander populations. Implications for teaching and collaborating in community-level strategies addressing historical and systemic causes of obesity health disparities will be discussed.
+
+---
+
+## Reflections on Improving the Taekwondo Judging System for People With Disabilities
+**Geun Wook Son (Sangmyung University)**
+
+Co-Authors: Jong Yoo Lee, Hyeon June Rah, and Ji Won Jung
+
+Faculty Mentor: Dr. Sang Keon Yoo
+
+Introduction: This study investigates the current status and challenges of Taekwondo examination rules for individuals with disabilities. Key issues identified include the lack of standardized procedures, insufficient expertise among judges, and inadequate examination venues. The study emphasizes the importance of creating inclusive practices to ensure fair assessments.
+
+Purpose: The study's primary goal is to explore the shortcomings of current examination rules for disabled Taekwondo practitioners, identify specific challenges in their implementation, and propose actionable solutions to enhance fairness and accessibility.
+
+Methods: Five experts in disabled Taekwondo were selected through purposeful sampling. Data were gathered using semi-structured interviews and analyzed with inductive category analysis.
+
+Results: The study found significant gaps, such as non-standardized procedures, a lack of specialized judge training, and inadequate facilities for disabled practitioners. Recommendations include establishing uniform procedures nationwide, providing specialized training for judges, and ensuring accessible examination venues.
+
+Conclusion: Standardized and inclusive examination practices are crucial for the fair treatment and advancement of disabled Taekwondo practitioners. Implementing the proposed improvements will create a supportive environment, fostering the physical and mental growth of all practitioners. The study's findings and recommendations aim to contribute to a more equitable Taekwondo community.
+
+---
+
+## Proximal Hypoalgesic Effects of Blood Flow Restriction in the Upper Extremity
+**Evan Carvalheira (Point Loma Nazarene University)**
+
+Faculty Mentor: Dr. Ryan Nokes
+
+Introduction: Blood Flow Restriction (BFR) is an intervention that is growing in physical therapy and sports rehabilitation settings. Occlusion of blood flow and venous return to exercising muscles during BFR intervention, coupled with low intensity exercise, has been shown to elicit muscular strength and hypertrophic effects similar to high intensity resistance training. Little is known regarding pain reduction and functional improvements after BFR intervention, especially in muscles proximal to the occlusion site.
+
+Purpose: Determine whether BFR, applied to the most proximal portion of the upper extremity, coupled with low intensity exercise elicits pain and functional improvements in individuals suffering from shoulder impingement syndrome or associated rotator cuff pathology.
+
+Methods: Nine participants with shoulder impingement syndrome were recruited from Catalyst Physical Therapy and Wellness clinics in San Diego through convenience and snowball sampling. Participants performed low intensity exercise with a BFR cuff applied to the proximal portion of the upper extremity. Measurements of pain and discomfort were collected using the Shoulder Pain and Disability Index and Numeric Pain Rating Scale. Scores were compared before and after the exercise protocol, as well as 24 hours after completion.
+
+Results: Significant improvements of shoulder function were seen immediately after exercise, while improvements in pain symptoms lasted up to 24 hours post-intervention (p < .05).
+
+Conclusion: BFR is a significant treatment method for those suffering from shoulder impingement syndrome, to improve both shoulder pain and function. BFR intervention is most clinically applicable for contraindicated individuals who are unable to traditionally strengthen the affected muscles.
+
+Keywords: Blood Flow Restriction, occlusion training, shoulder impingement syndrome, rotator cuff, shoulder pain and function.
+
+---
+
+## We’ve Made it Easy for People to Hate Sports and Exercise: A Reflective Thematic Analysis of Motivational Posters
+**Elmer Hernandez Gomez (California Polytechnic State University, San Luis Obispo)**
+
+Faculty Mentor: Dr. Jafra D. Thomas
+
+Introduction: Amateurism is loving an activity more than its outcomes. Also a communal activity, sport and exercise amateurs intrinsically love opportunities to socialize, recreate, and experience joyful movement.
+
+Purpose: Given that amateurism in sport and exercise cultures may go unappreciated, and is undermined by prevailing cultural values, this presentation makes a case for why kinesiology students should be taught about, and how to apply, specific philosophies in amateurism.
+
+Methods: Presentation materials come from an assignment done in an undergraduate course on Perspectives in Physical Activity. After learning about an ancient philosophy akin to amateurism, Bhagavad Gita philosophy, students used that philosophy to construct motivational posters promoting an amateur mindset toward sport and exercise. The student presenter showcases several posters and how they contrast with prevailing cultural values within typical sport and exercise motivational posters.
+
+Results: Project poster message themes were invalidating perfectionism and embracing the present, whereas the typical posters’ themes were dull advice and guilt tripping, according to the student’s reflective thematic analysis performed with the faculty mentor through independent study.
+
+Conclusion: Having learned specific tenets of an amateurism philosophy, the student gained deeper understanding of amateurism and the ability to culturally promote an amateur ethos within sport and exercise settings. These are significant learning outcomes all kinesiology students should achieve, given amateurism is a powerful source of fulfillment and enduring motivation in sport and exercise.
+
+---
+
+## The Impact of Physical Activity Enjoyment of Korean Office Workers Participating in Leisure Activities on Their Social Network and Prosocial Behavior: Focusing on the Mediated Effect of Positive Psychological Capital
+**Eun-Ju Kim (Chung-Ang University)**
+
+Faculty Mentors: Young-Jae Kim and Jeong-Hyung Cho
+
+Introduction: In Korean society, women used to be in charge of housework in the past, but recently they are under a lot of stress as they work and do housework. In this situation, physical activity is very helpful in relieving women’s stress and improving quality of life. In particular, physical activity was found to have a positive effect on social relations by creating a positive mental state.
+
+Purpose: This study analyzes the impact of Korean women's physical activity on social relations and positive behavior and proposes policies to improve women's quality of life based on this.
+
+Methods: The study surveyed 300 Korean female office workers aged 20 to 39. The survey included women who participated in leisure activities such as sports activities.
+
+Results: Enjoyment of physical activity had a positive effect on both social networks and prosocial behavior. Positive psychological capital showed a partial mediating effect in the relationship between physical activity enjoyment and social network, and a full mediating effect in the relationship between physical activity enjoyment and prosocial behavior.
+
+Conclusion: Koreans prioritize relationships and foster strong social ties through shared activities. Studies have found that physical activities enhance social networks and promote positive behaviors. This research suggests ways to make physical activities more enjoyable, ultimately contributing to a healthier society.
+
+Keywords: Leisure sports, female office workers, enjoyment of physical activity, social network, prosocial behavior.
+
+---
+
+## Mental Health Resource Materials in English and Spanish: A Suitability Analysis
+**Giselle Martinez (California Polytechnic State University, San Luis Obispo)**
+
+Co-Authors: Jessica Perez
+
+Faculty Mentors: Dr. Jafra D. Thomas and Suzanne Phelan
+
+Introduction: Physical activity and health promotion researchers seem to rarely study the suitability of mental health resource materials, despite a clear inverse relationship between negative mental health outcomes and physical activity. A potential barrier to kinesiology research analyzing resource materials’ suitability is a lack of training at the undergraduate level.
+
+Purpose: The purpose of this presentation is to model a training process used to prepare undergraduate students to reliably rate the quality of Cal Poly Mobile Health Unit’s patient resource materials written in English and Spanish, using the suitability assessment of materials protocol.
+
+Methods: Two native Spanish and English-speaking undergraduate students trained with the suitability assessment protocol, then tested their interrater reliability with public resource materials from the National Institutes of Health covering four mental health topics written in English and Spanish (N = 8).
+
+Results: Substantial interrater reliability was achieved. Coder differences were resolved. Undergraduates achieved competency in reliably utilizing the suitability assessment rating form to judge the quality of patient and public resource materials in English and Spanish. Test sample materials’ suitability scores and issues were equivalent across language categories, contrasting previous research. Like previous studies, reading grade level and summaries were not suitable, with overall material suitability adequate.
+
+Conclusion: The undergraduate student research assistants achieved competency in reliably utilizing the suitability assessment form with a sample of real patient education materials in English and Spanish comparable to those used in Cal Poly’s Mobile Health Unit. Implications for kinesiology and wellness college and university degree programs will be discussed, with an emphasis on undergraduate student career preparation.
+
+---
+
+## Disparities in Sexually Transmitted Infection Rates Among Young Hispanic and Black People in the United States: An Op-ed Term Project for Undergraduate Instruction in Kinesiology & Wellness
+**Emily Rodriguez (California Polytechnic State University, San Luis Obispo)**
+
+Faculty Mentors: Dr. Jafra D. Thomas and Dr. Marilyn E. Tseng
+
+Introduction: Young people ages 15 to 24 with socially marginalized identities face increased risk of contracting sexually transmitted infections. Health inequities underpinning sexually transmitted infections also underpin inequities in areas traditionally studied in kinesiology and wellness.
+
+Purpose: As part of an undergraduate course, the student developed an opinion-editorial presenting evidence of sexual health disparities in Black and Hispanic populations in the United States and unequal access to quality middle and high school sexual health education, then recommended theoretically informed, interdisciplinary, community-level strategies to address the health inequities underpinning high risk of STIs among Black and Hispanic young people.
+
+Methods: Development of the op-ed entailed adhering to op-ed writing guidelines, completing scaffolding activities in partnership with a classmate learning community, and addressing peer comments to preliminary drafts.
+
+Results: The primary outcome was an evidence-based op-ed with hyperlinked references, two identified solutions, and refutation of counterarguments such as the claim that medically accurate sexual health education increases sexual behavior.
+
+Conclusion: Implications of an interdisciplinary op-ed assignment for kinesiology and wellness undergraduate courses will be discussed.
+
+---
+
+## Seminaturalistic Driving Study of Breast Size and Seat Belt Fit
+**Anna Scheider (Westmont College)**
+
+Co-Authors: Ciboney Hellenbrand and Daniel Rafeedie
+
+Faculty Mentor: Dr. Adam Goodworth
+
+Introduction: Research has shown that body shape can negatively impact seat belt fit. Although proper seat belt fit is crucial for automotive safety, no prior research has been performed to study the effects that breast size has on belt fit.
+
+Purpose: The purpose of this study was to identify the effect of breast size on belt fit in semi-naturalistic driving conditions. The authors hypothesized that a larger breast size will worsen belt fit in a naturalistic setting.
+
+Methods: Anthropometric data was collected from 11 college students. Participants then followed a driving course making three distinct stops along the way and performing various reaching tasks at each stop. The course was driven three times, each time under a different condition: control, small breast size, or large breast size. Breast size was controlled with artificial breasts. Video software was used to evaluate belt fit throughout the tests.
+
+Results: A majority of participants experienced poor belt fit during reaching tasks, but once they assumed normal driving posture afterwards, their belt returned to proper position during the breast conditions. Participants with shorter stature were observed to have more issues with proper belt fit during the testing conditions.
+
+Conclusion: Researchers found that a combination of bodily characteristics, D-ring position, seat angle, and position of the seat buckle may contribute to poor belt fit in some individuals.
+
+---
+
+## Enhancing ACL Tear Diagnosis Workflow by Integrating Classification, Image Segmentation, and Text Report Using Gen AI Models
+**Bowen Xia (The Harker School)**
+
+Faculty Mentor: Dr. Li Jin
+
+Introduction: Knee joint injuries are prevalent in sports, with anterior cruciate ligament injuries being among the most common in athletes. Magnetic resonance imaging is a standard approach for visualizing and diagnosing ACL injuries. However, the complexity and volume of MRI data pose significant challenges for radiologists in identifying injuries. The advancement of artificial intelligence offers promising solutions to enhance ACL tear diagnosis.
+
+Purpose: This research integrated AI to streamline and enhance ACL injury detection.
+
+Methods: Utilizing the MRI knee injury dataset from Kaggle, the study combined three approaches: 1) a convolutional neural network to predict ACL tear, 2) Medical Segment Anything Model to segment MRI knee images and highlight potential areas of interest, and 3) GPT models optimized by integrating retrieval-augmented generation using both original and segmented images and related knowledge to improve the accuracy and relevance of the MRI report.
+
+Results: Combining CNN results, MedSAM-segmented images, and GPT-generated reports provides doctors with richer information for informed decision-making.
+
+Conclusion: The use of segmentation models can be more accurate in defining the extent and nature of knee injury. Future research should incorporate additional MRI sequences, such as coronal and axial views, to enhance the detail and accuracy of injury diagnosis.
+
+---
+
+## Advancing Running-Related Injury Prediction with Transformer-Generated Synthetic Tabular Time-Series Data
+**Robinson Xiang (The Harker School)**
+
+Student Co-Authors: Bowen Xia
+
+Faculty Mentor: Dr. Li Jin
+
+Introduction: Running often leads to common injuries that present significant challenges for both professional athletes and recreational runners, compromising performance and health. Identifying the relationship between training intensity and running-related injury risk involves the development of predictive statistical models. Traditional machine learning algorithms have been employed for injury risk prediction, but these models encounter limitations such as scarcity and imbalance of high-quality time-series data, resulting in inconsistent predictive performance.
+
+Purpose: To bridge this gap, the authors propose an innovative method that utilizes transformer architectures to generate synthetic tabular time-series data, enhancing real data for improved injury prediction.
+
+Methods: Specifically, the study utilized Nvidia Megatron, a PyTorch-based framework for training large language models, to generate new rows representing time-series data to augment a panel dataset. Using a DCAE-DNN model for training, the authors compared prediction results for the same un-augmented test set with those using non-augmented data and Synthetic Minority Oversampling Technique.
+
+Results: The result achieved 97.4% accuracy with a 0.814 AUC score, both surpassing those of the other two approaches.
+
+Conclusion: This research is one of the first attempts to use large language models to generate data in kinesiology research. The innovative approach using transformer architectures to generate synthetic tabular time-series data significantly improved injury prediction accuracy, and future research should refine this method and apply it to other sports injuries.

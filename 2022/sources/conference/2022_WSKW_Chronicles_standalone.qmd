@@ -1,0 +1,194 @@
+---
+title: "WSKW Chronicles"
+subtitle: "2022 WSKW Conference Abstracts"
+date: "2022-01-01"
+author: "Journal of Kinesiology and Wellness, Volume 11, Number 1, 2022"
+format:
+  pdf:
+    documentclass: article
+    fontsize: 11pt
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+    header-includes:
+      - \usepackage{titling}
+      - \pretitle{\begin{center}\LARGE\bfseries}
+      - \posttitle{\end{center}}
+      - \preauthor{\begin{center}\large}
+      - \postauthor{\end{center}}
+      - \predate{\begin{center}\large}
+      - \postdate{\end{center}}
+      - \postdate{\end{center}}
+---
+
+## Keynote Presentation: A Call and a Charge for the Future of Kinesiology
+\setcounter{page}{1}
+**Eric Martin, Boise State University**
+
+## E.C. Davis Lecture
+**W. Matthew Silvers, Whitworth University**
+
+---
+
+# ABSTRACTS
+
+## Honoring the Biopsychosocial Needs of Female Athletes: Educational Leadership to Support More Equitable Experiences for Women and Girls in Sport
+**Marsa Daniel (University of Washington)**
+
+The needs of female athletes differ from those of male athletes, yet most coaches and teams adopt training programs and sport practices that are built around male physiology. The outcomes of favoring training methods shaped around male physiology range from suppressed performance outcomes, to increased risk of injury and burnout, to severe endocrine dysfunction. The University of Washington’s Center for Leadership in Athletics, based in the College of Education, is committed to facing these tensions in sport by equipping coaches and sport leaders with research-based tools and strategies that will ignite change and honor the needs of historically under-researched and under-served populations. In this workshop, we discuss how to create sport spaces and training practices that support the health and well-being of female athletes while simultaneously supporting those female athletes in reaching their optimal level of performance.
+
+---
+
+## An Evaluation of Distraction Control in Experienced Cyclists
+**Denise Ramirez (California State University, Fresno)**
+
+Music has been found to have positive physical and psychological effects on exercisers who train while listening to favorable music (Hutchinson et al., 2006; Potteiger, 2000; Terry et al., 2020); however, music can also be a distracter (Lim, et al., 2009). The purpose of this study was to determine the effect of music as a distraction in experienced road cyclists' performance during a 20-min cycling effort. Interventions included preferred music (PM), non-preferred music (NPM) and no music (NM). Eleven participants completed Physiological Performance Inventory (PPI) and Brunel’s Music Rating Inventory (BMRI) to confirm their preferred music and determine levels of mental toughness prior to the trials.  Perceived exertion, power, and heart rate were measured. Results confirmed that BMRI’s are associated with PM and NPM treatments.  Motivation during PM were greater than in NPM and minimal differences were found when evaluating the performance and PPI. Statistical insignificance was shown between power and the PM, NPM and NM treatments. Using music variables and measuring performance outcomes, the type of music did not offer a significant impact on the psychological or physiological results, as some literature suggests (e.g. Aburto-Corona et al., 2017; Maddingan et al., 2019; Terry et al., 2020). Music played as a distracter does not seem to benefit or impede performance in skilled cyclists who are performing at their physical and psychological best.
+
+---
+
+## Adaptive Physical Education Professionals Do Not Have Time to Include Students with Physical Disabilities, Do You?
+**Aubrey Shaw & Sharon K. Stoll (University of Idaho)**
+
+Historically, people with physical disabilities have been excluded from physical education, recreation, and sport (Spivey, 2004). Harvard University Implicit Bias Project (Harvard University, 2021) states the largest groups to have implicit biases shown toward them are people with [physical] disabilities. Students with physical disabilities are not only excluded but they are being discriminated against and profiled. Professionals in adaptive physical education who are tasked with teaching inclusion to pre-service teachers are quoted saying: “I do not have time to teach inclusion” (Anonymous, personal communication, April 27, 2022) and “students with [physical] disabilities should not become physical education teachers because they cannot relate to abled-bodied students” (Anonymous, personal communication, April 27, 2022). Words have meaning and such comments hold discriminatory biases. Moreover, the comments contribute to the cycle of exclusion, its continuation, and its effect of the next generation of physical education teachers and the professionals who teach pre-service teachers. The presentation question is: do you have time to include? Thus, the purpose of this presentation is threefold: 1) to discuss how comments like the examples above are discriminatory towards people with physical disabilities, 2) to give examples of how inclusion can be a fruitful part of the classroom curriculum for pre-service teachers, and 3) to provide results and a discussion of a case study completed in the 2020-2021 academic year in which university pre-service teachers were immersed in an inclusion curriculum. Individuals with physical disabilities can be successful in the classroom with abled bodied physical education students.
+
+---
+
+## Clarifying the Purpose of Physical Education
+**Christine Ruffolo (Woodburn School District)**
+
+Clarifying the Purpose of Physical Education Intro: Physical Education is the gateway to continued movement, play, and physical cultivation. It shapes the relationship you have with your body and what options one has to utilize/ improve upon it. The vast majority of physical education in the United States, however, is failing to develop confident and capable participants in lifelong activity. They are presented with two options – sports or fitness – and neither is successful at engaging the masses. Purpose: To disrupt the construct of the status quo and make Physical Education a useful tool for EVERYONE. To outline the many systemic issues keeping Physical Education meaningful to few. Method: Reflection, revision, and conversations with students over a twenty-year Physical Education career. Evolution of a course curriculum. Results: Students must be exposed to a larger swath of activity options, and individual tastes, interests, styles, and abilities must be taken into consideration in order to reach everyone. Confidence and capability develops from meeting people where they are at, and these trait-skills flourish in the right environment. Conclusion: The narrowing of movement and activity options in middle school is harmful to creating lifelong participants. We cannot expect nor implement homogeneous outcomes with a heterogeneous population. The ambiguity surrounding the purpose of Physical Education is its greatest asset and also its greatest liability.
+
+---
+
+## Undergraduate Students as Behavior Change Agents: Lessons from a Service-Learning Project
+**Zachary Zenko & Alexis Fuston (California State University, Bakersfield)**
+
+Undergraduate Students as Behavior Change Agents: Lessons from a Service-Learning Project Introduction: Students frequently engage in literature reviews to apply behavior change theories to hypothetical clients or patients. It is less common for students to engage in service-learning projects with real-life clients. Purpose: The purpose of this presentation is to share perspectives and lessons from a service-learning project, in which undergraduate students were matched with a client and tasked with positively impacting their physical activity behavior. Methods: The details, structure, and format of the service-learning assignment will be shared so that other educators can adopt and modify this project and allow their students to engage with clients as behavior change agents. Results: Overall, the project was successful, but areas of improvement include client matching, communication standards and expectations, and opportunities for group-based interventions and programming. Conclusions: This service-learning project will be repeated and improved after positive initial impressions.
+
+---
+
+## Transitioning Between Online and In-Person Learning
+**Gioella Chaparro (California State University, Dominguez Hills)**
+
+Introduction: Because most university classes have returned to in-person learning (Spring 2022), students are experiencing changes due to this transition. Purpose: To examine the changes that students experience between online and in-person learning. Methods: Seventy undergraduate students (36 Females, mean age 22.7 ± 4.7 years) in three undergraduate Kinesiology classes participated in the study. Participants answered Likert-scale and short answer questions regarding their experiences with learning and general well-being (i.e., anxiety, loneliness, optimism, enjoyable and non-enjoyable factors associated with in-person learning) during the first 3 weeks of online learning and after 3 weeks of in-person learning during the Spring 2022 semester. Paired t-test were used to examine differences between online and in-person Likert scores. Short answer responses were separated into common themes. Results: After the 3 weeks of in-person learning, students reported significantly higher levels of anxiety (3.5 to 3.1, p= .01) and lower levels of loneliness (3.6 to 4.2, p= .003). 58% of students reported looking forward to interacting with their peers and professors. 57% reported they enjoyed the social interaction during the 3 weeks of in-person learning. 44% reported the commute to campus as a non-enjoyable factor during the 3 weeks of in-person learning. Discussion and Conclusions: These findings shine light on how our students were affected by the transition back to in-person learning. Such findings such as higher anxiety levels but lower levels of loneliness are important to be aware to support students learning experience back on campus.
+
+---
+
+## Difference in FMS Scores Among Distance Runners and Sprinters
+**Steven Waite, Chloe Sharp & Danae Gatewood (Fresno Pacific University)**
+
+Functional movement patterns play a major role in athletic performance, including the mechanics involved in running. Muscular flexibility and joint range of motion (ROM) can have a direct impact on joint function and overall running performance. Due to the impact training can have on muscular flexibility and overall performance, more attention has been placed on the use of exercise screening tools to help identify common movement patterns that inhibit performance and potentially lead to injury. Inhibiting patterns can be an indication of weak muscles, muscular imbalances, and/or poor flexibility, all of which can negatively impact performance and increase the risk of injury. This study was designed utilizing the Functional Movement Screen (FMS) to help identify the differences in mobility between two categories of runners on a college track team. FMS scores were compared between long distance runners (LD; n = 15) versus short distance runners and jumpers (SDJ; n = 15). The scores between both groups (n = 30) revealed a significant difference in overall FMS scores (P < .001) as well as three of the lower limb exercises (DS P = .040, ILL P = .013, & HSO P = .015). These results indicate that the LD runners have developed poor mobility in the trunk and lower limbs, likely a result of repetitive movements that lead to poor flexibility and joint ROM due to tight muscles. The implication of these findings suggests that improvement in lower limb mobility may improve performance and reduce risk of injury among the LD group. Follow up studies should be done to indicate the risk of poor mobility between both groups of runners to better understand the direct impact on performance and injury prevention.
+
+---
+
+## Young Scholar Award Winner: Resistance Exercise and Steroid Receptor Phosphorylation in Human Skeletal Muscle
+**Justin Nicoll (California State University, Northridge)**
+
+Resistance exercise (RE) is a potent stimulator of testosterone and cortisol release during and after exercise. Testosterone binds to the androgen receptor (AR) and cortisol binds to the glucocorticoid receptor (GR) and subsequently exert anabolic and catabolic effects on muscle cells respectively. In recent years there has been much debate in the scientific community concerning the role of exercise induced hormone responses and subsequent RE adaptations. However, steroid receptors can undergo phosphorylation at numerous sites and phosphorylation at specific sites regulates function and receptor activity. Intracellular signaling proteins are activated in response to RE. In vitro work in cancer cell lines indicate these proteins can phosphorylate the AR and GR independent of their hormone. Thus, it is possible AR and GR may change their phosphorylation status in response to an acute RE stimulus.  To date there are few published studies concerning steroid receptor phosphorylation and exercise. Collectively, muscle contraction changes the phosphorylation status of several sites on the AR and GR. In human studies, RE consistently changes increases GR phosphorylation at ser226, and decreases phosphorylation at ser134. RE does not appear to consistently change phosphorylation of the AR, however the acute phosphorylation to RE on the AR and GR may possibly be altered with chronic training. More research is required to understand the role steroid receptor phosphorylation contributes to RE adaptations. This emerging area of muscle physiology may elucidate how phosphorylation may be an important node of regulation integrating hormonal responses and contractile stress in skeletal muscle during RE.
+
+---
+
+## Getting and Keeping K-12 Girls in Sports and Physical Activity: Evidence-Based Best Practices and Keys
+**Kim Turner (Positive Coaching Alliance), Christina Rodriguez (California State University, East Bay), Kayla Souto (California State University, East Bay), Sarah Vital (Saint Mary’s College of California), Claire Williams (Saint Mary’s College of California), E. Missy Wright (California State University, East Bay)**
+
+Intro: Despite larger than ever participation rates by K-12 girls in sports and physical activity, boys still participate more. Researchers have identified numerous barriers that contribute to this discrepancy, however, evidence-based best practices for overcoming these barriers is scant. Additionally, what findings exist are infrequently translated for, and made available to, practitioners. Purpose: The purpose of our research was first to identify best practices and breakthroughs for getting K-12 girls active and to advance gender equity in youth sports programming, and second to present our findings to youth sport practitioners through a practical format. Method: Our research team, which included members from two Bay Area universities and the Positive Coaching Alliance Gender Equity Initiative, collaborated to review over 150 research studies and reports to highlight what works for engaging K-12 girls in athletics. We then summarized our findings into a short document with youth sport practitioners as the intended audience. Results: Based on our review of literature, 10 evidence-based best practices emerged. Best practices ranged from promoting girl-only and/or girl-centered-programming to emphasizing the necessity of social support from family and friends. Summarized findings were distributed electronically through a national, practitioner-based conference focused on advancing the future of gender equity and inclusion in physical activity and sport. Conclusions: At the end of our session, attendees will be able to list 10 evidence-based best practices for leveling the playing field for girls and women in sports and will be able to describe the gaps in research around these best practices. Additionally, attendees will be able to discuss the strengths and weaknesses of one example of collaboration between academics and a community partner trying to better support practitioners.
+
+---
+
+## Understanding University Students’ Motivation for Activity During a Pandemic
+**Karen Rickel (Gonzaga University), Gabriella Zink (St. Francis College) & Brian Fowler (University of Idaho)**
+
+Prior to COVID-19, one-quarter of adults did not get an appropriate amount of physical activity (PA). With COVID-19, universities went remote, gyms temporarily closed, and public gatherings stopped, the study’s objective sought to understand motivations for PA among university students. Participants of 150 undergraduate (n=102) and graduate (n=45), females (n=118), completed the Rickel Value Inventory (RVI), which consisted of seventeen Likert-scale inventory questions and a ranking of top motivators. After data collection, next was to compile and analyze descriptive statistics representing various groups of the participants and their survey responses. This analysis was followed by a non-parametric Sign Test to check whether objective and subjective motivations, paired by survey participants, differed in the sample. Finally, analyzing the participants’ top-three rankings of individual survey items. Similar to the methodology behind a poll ranking American college football teams, (e.g., Associated Press Poll), participants provided their top three items that motivated them to exercise. After the points were assigned, totals were compiled for each item and a ranked-order list was created ranging from the most points (i.e., highest-ranked motivator) to least points (e.g., lowest-ranked motivator). Results showed that during the COVID-19 pandemic, the participants preferred objective/extrinsic motivation for PA, such as weight control and maintaining health, as opposed to subjective/intrinsic motivators. The study provides insight into university students’ motivation preference for exercise, physical play, and/or movement during COVID-19, exploring objective motivation versus subjective motivation through the use of the RVI, contributing to future studies on motivation.
+
+
+---
+
+## Suitability Across Time: A Longitudinal Study of Physical Activity Promotion Web Articles for Adults
+**Jafra D. Thomas, Ethan N. Tse & Savannah A. Longoria (California Polytechnic State University, San Luis Obispo), Cameron N. Christopher (California Polytechnic State University, San Luis Obispo; Boston University) & Bradley J. Cardinal (Oregon State University)**
+
+The quality of health-related educational materials for a lay audience is often evaluated using a cross sectional research design (Thomas et al., 2018, Quest). This limitation was addressed through the present study, which documented the proportion of online material revised within a given time period and ways quality was affected, if at all. Specifically, 139 physical activity promotion (PAP) web articles, primarily for lay adults, written in English and first sampled in July 2018 were resampled in July 2020. Mean publication year at timepoint 1 was 2016.82 (±1.24). At timepoint 2 it was 2018.78 (±1.39). At both timepoints, suitability for lay use was appraised using five dimensions of the suitability assessment of materials (SAM) protocol: i.e., content, literacy demand, graphics, layout and typography, and learning stimulation/motivation. There were 61 (43.9%) web articles with indicated revision and analyzed in the present study. Articles were distributed across four organizational subgroups: commercial (n = 21), government (n = 13), professional association (n = 10), and voluntary health agency (n = 17). In the aggregate sample, two SAM dimensions significantly improved: (a) literacy demand (e.g., vocabulary) and (b) layout & typography (e.g., format consistency). Often, organizational subgroups mirrored the aggregate sample. Although the overall suitability remained within the satisfactory range across the dimensions, a moderate-to-large number of articles remained unsatisfactory at timepoint 2 within several subdomains (e.g., reading grade level, summary section). This study’s findings further evidence PAP materials are somewhat suitable and the need to study suitability subdomains in addition to overall suitability.
+
+---
+
+## Call to Action for Open Science
+**Jennifer Sherwood & Vanessa Yingling (California State University, East Bay)**
+
+In the U.S., health and wellness is a $4 trillion/year industry and pseudoscience, ‘quick fixes’, and social media “influencers” dominate the conversation on “therapies” for health, recovery and/or sports performance. A recently published call to arms demanded that we, in the field of kinesiology, prepare future kinesiologists with the skills to distinguish science from pseudoscience, and the preparation to challenge baseless claims in health and wellness. To do this, we need to adopt a set of practices to make science and research more accessible and transparent. Currently, access to scientific evidence is available only through costly subscriptions in academic libraries, in articles that summarize work. Thus evidence is not easily available to the coaches, teachers, parents and health and wellness consumers. However, open science practices would make evidence more transparent and accessible. Scientists could more easily evaluate, collaborate, and build on each other’s efforts to analyze data in new ways, speed discoveries, and data collected using public monies would be open to the public; research data would remain available to students even after they graduate and lose access to the university library. Despite the many benefits of open science, perceived and real barriers disproportionately affect early career researchers. Permanent research positions and grants are given to researchers that publish a lot, and early career positions lack incentives, temporal and financial support and infrastructure to pursue open science. This presentation will examine how teacher scholars can become part of the open science movement while progressing to tenure and promotion.
+
+---
+
+## Passing Time of Passing the Torch?: Exploring Communication Purpose and Elements of Overconformity in Athlete Tweets
+**Tim Libby & Heather Van Mullem (Lewis-Clark State College)**
+
+Professional athletes are using social media to communicate directly with diverse publics (Clavio, 2021) while wielding significant influence (Brown et al., 2013). The purpose of this study was to analyze professional athlete Twitter content to record the purpose and potential influence of these communications and to ascertain to what degree the sport ethic may be perpetuated through these communications. It is meaningful to understand the intent and reach of these outbound communications (Clavio & Kion, 2010) to better recognize potential socioeconomic consequences of professional athlete (n=180) Twitter activity. Expanding upon the qualitative methodology in Hambrick et al. (2010), each athlete tweet and retweet were coded to record communication method, purpose, and reach. Informed by Hughes and Coakley (1991), each sample message was also coded to record whether the communication represented an affirmation of the sport ethic and which of the 4 elements (i.e., seeking distinction, etc.) were perpetuated, if any. The study found the sample to have significantly (p<0.05) perpetuated the sport ethic through each of the 4 elements. Additionally, significance was found when comparing affirmation of specific elements by gender (p=0.005; 0.045; 0.038) and by sport (p<0.001). The findings provide concern due to the potential implications of significant adoption of these behaviors and ways of thinking which can negatively impact the physical and emotional health of student-athletes (1991). Session participants will explore the 4 components of the sport ethic, its potential implications for coaches and student-athletes, and strategies that may help to provide a healthier sport environment.
+
+---
+
+## A Comparison of Health Locus of Control and Physical Activity Among Seventh-Day Adventists and non-Seventh Day Adventists
+**Kimberly Feiler & Han Gia Ngo (La Sierra University)**
+
+This study aimed to assess the correlation between physical activity (PA) levels and health locus of control (HLOC: internal, external-chance, external-powerful others, God/God locus of health control) among Seventh-day Adventists (SDA) and non-SDAs. The sample of this study included 185 individuals aged 22 to 81 who were employed by or attending an SDA affiliated higher education institution during the 2020-2021 academic school year. By completing the survey voluntarily, the participants provided their PA level and information regarding their HLOC. To analyze the impact of HLOC on PA, a multiple regression analysis was conducted. While overall results for a majority of respondents showed high levels of PA, SDAs reported statistically significant lower PA than did non-SDAs. HLOC (internal, external-chance, external-powerful others, God/God locus of health control) was not a significant predictor for PA. This study adds to the existing literature specifically looking at the intersection of HLOC, PA, and religious affiliation, and can be used to inform health behavior interventions among religiously-affiliated individuals.
+
+---
+
+## Creating Safe Spaces for Marginalized Students
+**Karen Hostetter (Northern Arizona University)**
+
+As referrals to mental health professionals continue to rise for the adolescent population, educators and others who work with this population must do their part to help young people know they are valued, cared for, and important members of society. The purpose of this presentation is to provide information on how to create safe spaces for students who identify within the LGBTQIA+ community. Common and perhaps new terminology will be described as attendees are given opportunities to consider and discover their own biases around LGBTQIA+ people. Additionally, qualities of an ally and inclusive, respectful environment will be addressed. Resources from multiple sources, including National Federation of State High School Associations (NFHS), Centers for Disease Control and Prevention (CDC), and National Athletic Trainers’ Association (NATA) will be included to provide attendees with a solid starting point for establishing a campus or community network of support.
+
+---
+
+## Teachers’ Professional Quality of Life During the Great Resignation: Considerations for PE Teachers and Teacher Educators
+**Sierra Cordova, Shannon Cross & Damon Dees (California State University, Los Angeles)**
+
+K-12 teachers across the U.S. are voluntarily leaving their jobs at alarming rates in what is being known as part of the “The Great Resignation” (Cohen, 2021). Teachers are nearly three times more likely to report job-related stress than that of the general adult population (Steiner & Woo, 2021). In the first quarter of 2022, over 700,000 educators separated from the profession (U.S. Bureau of Labor Statistics, 2022). This exodus of teachers from the field leaves the educational system greatly understaffed, obligating in-service teachers to bear the brunt of additional job responsibilities in addition to their already stressful workload (NEA, 2022). Despite facing discipline-specific stressors as well as similar challenges to the classroom teacher, PE teachers’ professional quality of life (proQOL) has not been as commonly investigated. The objective of this pilot study was to 1) measure PE teachers’ levels of secondary traumatic stress, burnout, and compassion satisfaction, and 2) compare results with other types of teachers. 89 respondents [CJ1] [CJ2] [CJ3] completed The Professional Quality of Life Scale (Stamm, 2009). Results revealed overall moderate levels of burnout across all teachers. General PE teachers and classroom teachers shared moderate levels of compassion satisfaction and secondary traumatic stress, while APE teachers reported high levels of compassion satisfaction and low levels of secondary traumatic stress. No significant differences were found between physical educators and classroom teachers’ proQOL. Implications for PETE programs and pre-service and early career teachers will be emphasized.
+
+---
+
+## You Should Really Get Some Exercise!: Addressing Fatphobia in Kinesiology Degree Programs
+**Heather Van Mullem (Lewis-Clark State College)**
+
+Overweight and obese people are told in informal and formal ways that their bodies are bad and need to be changed or fixed. Weight loss is presented as the solution (Bruso, 2018). While fitness communities market themselves as inclusive through celebration of strength and fitness at different body sizes, that messaging is superficial and isn’t reflective of the systemic oppression and bias present (Lothian-McLean, 2020). Fitness professionals, hired to create healthy lifestyles, may contribute to creating an unhealthy environment through the normalization of harmful fatphobic rhetoric (Morabito, 2016). After experiencing weight bias and the associated stigma from exercise professionals, people of size may be less likely to engage in or adhere to wellness plans (Scritchfield, 2018), thus resulting in negative health consequences (Panza et al., 2018). Accepting body diversity requires acknowledgment that all bodies are worthy and have value and requires we change how we think, talk, and act (Bruso, 2018). As training sites for future fitness professionals, Kinesiology programs are responsible to create a culture of learning that values diverse perspectives and experiences. Doing so will not only improve preparation of highly qualified and empathetic professionals but will also have a direct and positive influence on encouraging the facilitation and adoption of health-related behaviors for people of all sizes. This interactive presentation will: (1) Identify ways Kinesiology degree programs may perpetuate fatphobia and biased ways of thinking and (2) Identify curricular changes and other strategies to create learning and fitness communities that accept and value diverse bodies.
+
+---
+
+## Student Poster Session
+
+| # | Poster Title | Author(s) |
+|---|---|---|
+| 1 | Physiological Effects of Earth Grounding | Alona Davis & Gioella Chaparro (California State University, Dominguez Hills) |
+| 2 | Appraising a Mobile Health Clinic’s Patient Education Materials: A Progress Report | Paola Montano Valencia, Heidi Shaw, Suzanne Phelan & Jafra D. Thomas (California Polytechnic State University, San Luis Obispo) |
+| 3 | Effects of the “Keto Diet” on Body Composition and Muscle Hypertrophy on Competitive Bodybuilders | Andrea Marie Cocjin & Gioella Chaparro (California State University, Dominguez Hills) |
+| 4 | If it’s not on Strava, did it even happen? | Samantha Lewis & Sharon K. Stoll (University of Idaho) |
+| 5 | Therapeutic Aquatic Exercise vs. P.T. Modalities for Chronic Lower Back Pain | Sarai Giacomi & Gioella Chaparro (California State University, Dominguez Hills) |
+| 6 | 12-s Pitch Clock and the Possible Arm Injuries of Baseball Pitchers | Pedro Vera & Gioella Chaparro (California State University, Dominguez Hills) |
+| 7 | Effects of Physical Therapy and Relaxation Techniques as Treatment for Tension-Type Headaches | Mikayla Harris & Gioella Chaparro (California State University, Dominguez Hills) |
+| 8 | Modifying Basketball Midsole Stiffness to Analyze Performance | Jose Gonzalez & Gioella Chaparro (California State University, Dominguez Hills) |
+| 9 | The Effect of Flywheel Eccentric Overload Training in Young Soccer Players | Brian Villa-Montano & Gioella Chaparro (California State University, Dominguez Hills) |
+| 10 | The Effect of Strength and Balance Training on Walking Recovery for Post-Stroke Patients | Joana Ramos & Gioella Chaparro (California State University, Dominguez Hills) |
+| 11 | Effectiveness of Pediatric Manual Therapy | Misael Rodriguez & Gioella Chaparro (California State University, Dominguez Hills) |
+| 12 | Effect of Afferent Electrical Stimulation with Mirror Therapy on Chronic Stroke Survivors | Ezinne Nwadiogu & Gioella Chaparro (California State University, Dominguez Hills) |
+| 13 | Effects of Vibration on Physical Function and Muscle Strength in Individuals with Knee Osteoarthritis | Ashley Mejia & Gioella Chaparro (California State University, Dominguez Hills) |
+| 14 | Comparison of Pilates and Physical Therapy for Multiple Sclerosis Patients | Kerra Conley & Gioella Chaparro (California State University, Dominguez Hills) |
+| 15 | Effects of SARS-CoV-2 on Arterial Stiffness and Aerobic Capacity in Young Adults and Athletes | Amanda Moushabek & Sang Ouk Wee (California State University, San Bernardino) |
+| 16 | Effectiveness of Therapy & Stretching for Shoulder Range of Motion | Abigail Espinoza & Gioella Chaparro (California State University, Dominguez Hills) |
+| 17 | Surfing Intervention Effectiveness on Children with Disabilities | Logan Cervantes & Gioella Chaparro (California State University, Dominguez Hills) |
+| 18 | Evaluating Minor League Pay Based on Modern Philosophies: A Follow-Up Analysis | Mia I. Napolitano & Jafra D. Thomas (California Polytechnic State University, San Luis Obispo) |
+| 19 | Lower Body Biomechanics of Post-Surgical and Healthy Knees During Single Leg Hops | Emily Cowdrey, Tori Frei, Clay Robinson & Jessica Savage (Lewis-Clark State College) |
+
+---
+
+## Faculty Poster Session
+
+| # | Poster Title | Author(s) |
+|---|---|---|
+| 1 | Cognition matter? Movement matter? Effect of Task Complexity on Cognitive Performance in younger and older adults | Yeonhak Jung (California State University, Northridge) & Darla M. Castelli (The University of Texas at Austin) |
+| 2 | Physical Activity and Energy Expenditure in Undergraduate Students During and After COVID-19 Implemented Report Learning | Carolyn Oudiz (California State University, Dominguez Hills) & Ronald Oudiz (The Lundquist Institute at Harbor-University of California, Los Angeles) |
+| 3 | The Role of Older Siblings in Younger Siblings’ Movement Skills | Seung Ho Chang & Marcos A Cepin (San Jose State University) |
+| 4 | Where are the Future K-12 Physical Educators; Can PETE Programs Successfully Recruit? | Todd Pennington, Annie Newsom, Joe Toolson, Taylor Eves, & Zack Beddoes (Brigham Young University) |
+| 5 | Does Music in the Weight Room Make High School Students' Work Harder? | David Barney & Keven Prusak (Brigham Young University) |
+| 6 | The Effects of Music on Junior High School Student Step Counts and Time in Activity During Basketball Play | David Barney, Taylor Eves, Annie Newsome, & Keven Prusak (Brigham Young University) |
+| 7 | Coach Whaley: The Quiet Teacher of the Navajo Nation | Keven Prusak, Kelsey Baile, Brooklyn Dahl, Joseph Toolson, & Zack Beddoes (Brigham Young University) |
+| 8 | Investigation of adapted physical education teachers’ online teaching during COVID-19 | Minhyun Kim (Sam Houston State University), Boung Jin Kang (Elizabeth City State University) & Jung Hyung Baek (Gyeong-In National University of Education) |
